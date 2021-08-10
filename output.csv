@@ -57,8 +57,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 1, Liffey Walk, Dublin 1",-6.263429,53.34764,199950.0,43,D1,0.5893078947243933,http://www.daft.ie/for-sale/apartment-apartment-1-liffey-walk-dublin-1/3490006
 "4 Melville Cove, Meakstown, Finglas, Dublin 11",-6.299954,53.402973,199950.0,N/A,D11,7.020243279946282,http://www.daft.ie/for-sale/apartment-4-melville-cove-meakstown-finglas-dublin-11/2842944
 "31 Melville View, Finglas, Dublin 11",-6.294635,53.401975,199950.0,68,D11,6.81278870011616,http://www.daft.ie/for-sale/apartment-31-melville-view-finglas-dublin-11/3483518
-"45 Deerpark Close, Kiltipper, Tallaght, Dublin 24",-6.376807,53.270761,199950.0,72,D24,10.825258617556145,http://www.daft.ie/for-sale/apartment-45-deerpark-close-kiltipper-tallaght-dublin-24/2633080
 "73 Lanesborough Mews, Finglas, Dublin 11",-6.294618844985962,53.402662675517654,199950.0,N/A,D11,6.886261607286458,http://www.daft.ie/for-sale/apartment-73-lanesborough-mews-finglas-dublin-11/54430
+"45 Deerpark Close, Kiltipper, Tallaght, Dublin 24",-6.376807,53.270761,199950.0,72,D24,10.825258617556145,http://www.daft.ie/for-sale/apartment-45-deerpark-close-kiltipper-tallaght-dublin-24/2633080
 "28A Virginia Park, Finglas South, Finglas, Dublin 11",-6.312333,53.383362,199950.0,N/A,D11,5.397400517002193,http://www.daft.ie/for-sale/detached-house-28a-virginia-park-finglas-south-finglas-dublin-11/3439017
 "40 Mount Eustace Park, Tyrellstown, Tyrrelstown, Dublin 15",-6.39131,53.420175,199950.0,N/A,D15,11.890137348970345,http://www.daft.ie/for-sale/apartment-40-mount-eustace-park-tyrellstown-tyrrelstown-dublin-15/3411657
 "Apartment 45, Beaumont Court, Beaumont, Dublin 9",-6.227202,53.391941,199950.0,40,D9,6.070386125178855,http://www.daft.ie/for-sale/apartment-apartment-45-beaumont-court-beaumont-dublin-9/3205433
@@ -80,8 +80,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "83 Jamestown Road, Finglas, Dublin 11",-6.295466,53.392961,210000.0,N/A,D11,5.869723827782342,http://www.daft.ie/for-sale/terraced-house-83-jamestown-road-finglas-dublin-11/3462141
 "8 Carrig Road, Ballymun, Dublin 11",-6.276004314422607,53.399592293387315,210000.0,N/A,D11,6.329687257873603,http://www.daft.ie/for-sale/apartment-8-carrig-road-ballymun-dublin-11/7950
 "125 Allendale Square, Clonsilla, Dublin 15",-6.427856603317679,53.38961072800805,210000.0,62,D15,11.845684723720934,http://www.daft.ie/for-sale/apartment-125-allendale-square-clonsilla-dublin-15/3285994
-"21 Exchange Hall, Belgard Square North, Tallaght, Dublin 24",-6.374264,53.289879,210000.0,60,D24,9.227693362112058,http://www.daft.ie/for-sale/apartment-21-exchange-hall-belgard-square-north-tallaght-dublin-24/3451410
 "2 Belfry Manor, Citywest, Co. Dublin",-6.416591,53.275806,210000.0,N/A,Co. D,12.405921956264365,http://www.daft.ie/for-sale/apartment-2-belfry-manor-citywest-co-dublin/3249435
+"21 Exchange Hall, Belgard Square North, Tallaght, Dublin 24",-6.374264,53.289879,210000.0,60,D24,9.227693362112058,http://www.daft.ie/for-sale/apartment-21-exchange-hall-belgard-square-north-tallaght-dublin-24/3451410
 "72 Hampton Wood Road, Finglas, Dublin 11",-6.288945,53.404875,214950.0,N/A,D11,7.037957407039257,http://www.daft.ie/for-sale/apartment-72-hampton-wood-road-finglas-dublin-11/3284215
 "Apartment 191, Block 4, Parklands, Northwood, Santry, Dublin 9",-6.251774,53.40655,214950.0,N/A,D9,7.153062368265632,http://www.daft.ie/for-sale/apartment-apartment-191-block-4-parklands-northwood-santry-dublin-9/2934437
 "Apartment 5, Hampton Court, Tyrconnell Road, Inchicore, Dublin 8",-6.322813,53.338592,215000.0,N/A,D8,3.7098957895847446,http://www.daft.ie/for-sale/apartment-apartment-5-hampton-court-tyrconnell-road-inchicore-dublin-8/3484112
@@ -97,8 +97,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "37 Beaumont Hall, Beaumont Woods, Beaumont, Dublin 9",-6.229026,53.386573,215000.0,N/A,D9,5.483242244230374,http://www.daft.ie/for-sale/apartment-37-beaumont-hall-beaumont-woods-beaumont-dublin-9/3192135
 "Apartment 24, Crescent House, Clontarf, Dublin 3",-6.226859,53.365242,215000.0,N/A,D3,3.662164756218586,http://www.daft.ie/for-sale/apartment-apartment-24-crescent-house-clontarf-dublin-3/3467003
 "6A Shangan Park, Ballymun, Dublin 9",-6.255835,53.396443,215000.0,N/A,D9,6.00294679790386,http://www.daft.ie/for-sale/duplex-6a-shangan-park-ballymun-dublin-9/3279239
-"5 Kiltalown Walk, Tallaght, Dublin 24",-6.401271,53.277864,215000.0,78,D24,11.46295731002108,http://www.daft.ie/for-sale/terraced-house-5-kiltalown-walk-tallaght-dublin-24/3442575
 "83 Fortlawn Avenue, Blanchardstown, Dublin 15",-6.403168,53.391486,215000.0,80,D15,10.503843392039432,http://www.daft.ie/for-sale/terraced-house-83-fortlawn-avenue-blanchardstown-dublin-15/3422679
+"5 Kiltalown Walk, Tallaght, Dublin 24",-6.401271,53.277864,215000.0,78,D24,11.46295731002108,http://www.daft.ie/for-sale/terraced-house-5-kiltalown-walk-tallaght-dublin-24/3442575
 "8 Melville Way, Finglas, Dublin 11",-6.293471,53.400175,215000.0,N/A,D11,6.5993699698189126,http://www.daft.ie/for-sale/apartment-8-melville-way-finglas-dublin-11/3484918
 "Apartment 26, Temple Court, Dublin 7",-6.271212,53.353986,218000.0,N/A,D7,1.2584081643502643,http://www.daft.ie/for-sale/apartment-apartment-26-temple-court-dublin-7/2928467
 "24 Deerpark Square, Kiltipper, Tallaght, Dublin 24",-6.356652,53.288049,219000.0,N/A,D24,8.505970958338903,http://www.daft.ie/for-sale/apartment-24-deerpark-square-kiltipper-tallaght-dublin-24/3262028
@@ -107,8 +107,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 339, Charlestown Place, Finglas, Dublin 11",-6.302404,53.404136,219000.0,73,D11,7.194197647368321,http://www.daft.ie/for-sale/apartment-apartment-339-charlestown-place-finglas-dublin-11/3458783
 "40 Deerpark Square, Deerpark Estate, Tallaght, Dublin 24",-6.365845,53.285413,219000.0,N/A,D24,9.144932332680218,http://www.daft.ie/for-sale/duplex-40-deerpark-square-deerpark-estate-tallaght-dublin-24/2936591
 "19 Oak House, Carrickmines Green, Carrickmines, Dublin 18",-6.179457,53.249659,219950.0,N/A,D18,11.901802321536367,http://www.daft.ie/for-sale/apartment-19-oak-house-carrickmines-green-carrickmines-dublin-18/3161060
-20 Kilmartin Avenue,-6.400226,53.290393,220000.0,82,N/A,10.580054440594576,http://www.daft.ie/for-sale/terraced-house-20-kilmartin-avenue/3276031
 "Summerseat Court, Clonee, Dublin 15",-6.438939,53.408701,220000.0,N/A,D15,13.52836137831802,http://www.daft.ie/for-sale/apartment-summerseat-court-clonee-dublin-15/2855336
+20 Kilmartin Avenue,-6.400226,53.290393,220000.0,82,N/A,10.580054440594576,http://www.daft.ie/for-sale/terraced-house-20-kilmartin-avenue/3276031
 "14 Bective Square, Phibsborough, Dublin 7",-6.272943,53.359711,220000.0,39,D7,1.9051585933705113,http://www.daft.ie/for-sale/apartment-14-bective-square-phibsborough-dublin-7/2952082
 "Apartment 21B, Willan's Way, Ongar, Dublin 15",-6.440879,53.394858,220000.0,N/A,D15,12.878252598606407,http://www.daft.ie/for-sale/apartment-apartment-21b-willans-way-ongar-dublin-15/3477451
 "Apt 104 Orchard Way, Greenwood Estate, Ayrfield, Dublin 13",-6.1793415,53.3981138,220000.0,70,D13,8.474858254463985,http://www.daft.ie/for-sale/apartment-apt-104-orchard-way-greenwood-estate-ayrfield-dublin-13/3225292
@@ -143,8 +143,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 74, Alen Hall, Belgard Square, Tallaght, Dublin 24",-6.375299,53.286721,225000.0,76,D24,9.507829944560317,http://www.daft.ie/for-sale/apartment-apartment-74-alen-hall-belgard-square-tallaght-dublin-24/3173882
 "Apartment 39, The Crescent",-6.376762,53.332099,225000.0,70,N/A,7.359693940494608,http://www.daft.ie/for-sale/apartment-apartment-39-the-crescent/3480087
 "Apartment 26, Watermint Court, Royal Canal Park, Dublin 15",-6.315886,53.376048,229000.0,52,D15,4.89268633114536,http://www.daft.ie/for-sale/apartment-apartment-26-watermint-court-royal-canal-park-dublin-15/3197001
-"124 Kiltipper Gate, Tallaght, Dublin 24",-6.365845,53.285413,229950.0,N/A,D24,9.144932332680218,http://www.daft.ie/for-sale/apartment-124-kiltipper-gate-tallaght-dublin-24/2915064
 "33 Deerpark Avenue, Kiltipper, Tallaght, Dublin 24",-6.37355,53.271569,229950.0,61,D24,10.61379452838123,http://www.daft.ie/for-sale/apartment-33-deerpark-avenue-kiltipper-tallaght-dublin-24/3458277
+"124 Kiltipper Gate, Tallaght, Dublin 24",-6.365845,53.285413,229950.0,N/A,D24,9.144932332680218,http://www.daft.ie/for-sale/apartment-124-kiltipper-gate-tallaght-dublin-24/2915064
 "24 Lanesborough Mews, Finglas, Dublin 11",-6.2946079,53.4037988,230000.0,N/A,D11,7.008057504947453,http://www.daft.ie/for-sale/apartment-24-lanesborough-mews-finglas-dublin-11/17452
 "Apartment 46, Burnell Court, Malahide Road, Clarehall, Dublin 13",-6.179043,53.404791,230000.0,67,D13,9.039782254097217,http://www.daft.ie/for-sale/apartment-apartment-46-burnell-court-malahide-road-clarehall-dublin-13/3468817
 "17-18 6 Sherbourne Court, Ranelagh, Dublin 6",-6.258502,53.324183,230000.0,N/A,D6,2.1634751889348807,http://www.daft.ie/for-sale/apartment-17-18-6-sherbourne-court-ranelagh-dublin-6/3432105
@@ -254,40 +254,40 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "123 Mellowes Park, Finglas, Dublin 11",-6.317711,53.39227,249950.0,N/A,D11,6.424880803690522,http://www.daft.ie/for-sale/end-of-terrace-house-123-mellowes-park-finglas-dublin-11/3193761
 "5 Abbotstown Avenue, Finglas West, Finglas, Dublin 11",-6.313475,53.387723,249950.0,N/A,D11,5.846982918189815,http://www.daft.ie/for-sale/end-of-terrace-house-5-abbotstown-avenue-finglas-west-finglas-dublin-11/3481821
 "304 Kildare Road, Crumlin",-6.3076,53.3254,249950.0,N/A,N/A,3.303266361681609,http://www.daft.ie/for-sale/terraced-house-304-kildare-road-crumlin/3422995
+"109A Conquer Hill Road, Clontarf, Dublin 3",-6.189664,53.360473,249950.0,N/A,D3,5.5171501716546,http://www.daft.ie/for-sale/end-of-terrace-house-109a-conquer-hill-road-clontarf-dublin-3/3187560
 "164 Hampton Wood Road, Finglas, Dublin 11",-6.284911,53.404717,249950.0,N/A,D11,6.971203209396766,http://www.daft.ie/for-sale/duplex-164-hampton-wood-road-finglas-dublin-11/3225141
 "26 Cloonlara Crescent, Finglas South, Finglas, Dublin 11",-6.295055,53.379365,249950.0,N/A,D11,4.450668899433438,http://www.daft.ie/for-sale/terraced-house-26-cloonlara-crescent-finglas-south-finglas-dublin-11/3180880
-"109A Conquer Hill Road, Clontarf, Dublin 3",-6.189664,53.360473,249950.0,N/A,D3,5.5171501716546,http://www.daft.ie/for-sale/end-of-terrace-house-109a-conquer-hill-road-clontarf-dublin-3/3187560
 "121 Westend Village, Blanchardstown, Dublin 15",-6.3891553,53.3890631,249950.0,N/A,D15,9.571343890646922,http://www.daft.ie/for-sale/apartment-121-westend-village-blanchardstown-dublin-15/3491705
 "9 Ashfield Park, Mulhuddart, Dublin 15",-6.402497,53.401512,249950.0,85,D15,11.081537743608317,http://www.daft.ie/for-sale/detached-house-9-ashfield-park-mulhuddart-dublin-15/2855248
 "57 Monasterboice Road, Crumlin, Dublin 12",-6.30338,53.324018,249950.0,N/A,D12,3.180573999799858,http://www.daft.ie/for-sale/terraced-house-57-monasterboice-road-crumlin-dublin-12/3490533
 "77 Hampton Wood Road, Finglas, Dublin 11",-6.28877,53.404716,249950.0,N/A,D11,7.018293112192836,http://www.daft.ie/for-sale/duplex-77-hampton-wood-road-finglas-dublin-11/1507117
-"33 Red Arches Park, Baldoyle, Dublin 13",-6.125463,53.391873,249950.0,N/A,D13,10.878337799639922,http://www.daft.ie/for-sale/apartment-33-red-arches-park-baldoyle-dublin-13/3470549
 "109 Huntstown Woods, Clonsilla, Dublin 15",-6.381205,53.38746,249950.0,N/A,D15,9.031607364034304,http://www.daft.ie/for-sale/terraced-house-109-huntstown-woods-clonsilla-dublin-15/3269033
+"33 Red Arches Park, Baldoyle, Dublin 13",-6.125463,53.391873,249950.0,N/A,D13,10.878337799639922,http://www.daft.ie/for-sale/apartment-33-red-arches-park-baldoyle-dublin-13/3470549
 "4 Glenfield Drive, Clondalkin, Dublin 22",-6.403569,53.347894,249950.0,85,D22,9.056240901738413,http://www.daft.ie/for-sale/semi-detached-house-4-glenfield-drive-clondalkin-dublin-22/3466060
 "Apartment 2, Milltown Hill, Milltown, Dublin 6",-6.24674,53.312775,249950.0,N/A,D6,3.619840997774209,http://www.daft.ie/for-sale/apartment-apartment-2-milltown-hill-milltown-dublin-6/3494172
 "11 Carrigmore Grove, Aylesbury, Dublin 24",-6.368668,53.272414,249950.0,N/A,D24,10.329563665664931,http://www.daft.ie/for-sale/terraced-house-11-carrigmore-grove-aylesbury-dublin-24/3419828
-"50 Galtymore Drive, Drimnagh",-6.310903,53.334598,249950.0,N/A,N/A,3.0322148619223377,http://www.daft.ie/for-sale/terraced-house-50-galtymore-drive-drimnagh/3425408
 "17 Faughart Road, Crumlin, Dublin 12",-6.304898,53.322476,249950.0,N/A,D12,3.3700830453444874,http://www.daft.ie/for-sale/terraced-house-17-faughart-road-crumlin-dublin-12/3458403
+"50 Galtymore Drive, Drimnagh",-6.310903,53.334598,249950.0,N/A,N/A,3.0322148619223377,http://www.daft.ie/for-sale/terraced-house-50-galtymore-drive-drimnagh/3425408
 "33 Red Arches Park, Baldoyle, Dublin 13",-6.125463,53.391873,249950.0,N/A,D13,10.878337799639922,http://www.daft.ie/for-sale/apartment-33-red-arches-park-baldoyle-dublin-13/3209299
-"Apartment 50, Block F, Mellowes Quay, Dublin 8",-6.27932,53.345166,250000.0,48,D8,0.8304490845023922,http://www.daft.ie/for-sale/apartment-apartment-50-block-f-mellowes-quay-dublin-8/3482237
 "29 Briarwood Green, Blanchardstown, Mulhuddart, Dublin 15",-6.404843,53.397873,250000.0,85,D15,10.977746356104335,http://www.daft.ie/for-sale/semi-detached-house-29-briarwood-green-blanchardstown-mulhuddart-dublin-15/3478375
+"Apartment 50, Block F, Mellowes Quay, Dublin 8",-6.27932,53.345166,250000.0,48,D8,0.8304490845023922,http://www.daft.ie/for-sale/apartment-apartment-50-block-f-mellowes-quay-dublin-8/3482237
 "29 Montpelier View, Tallaght, Dublin 24",-6.399431,53.277985,250000.0,113,D24,11.359808290865766,http://www.daft.ie/for-sale/terraced-house-29-montpelier-view-tallaght-dublin-24/3279115
 "Apartment 140, Temple Gardens, Northwood, Santry, Dublin 9",-6.248025,53.406409,250000.0,70,D9,7.177886496276423,http://www.daft.ie/for-sale/apartment-apartment-140-temple-gardens-northwood-santry-dublin-9/3428365
 "34 St. Benedict's Gardens, Dublin 7",-6.262308,53.360375,250000.0,53,D7,1.9723038126294827,http://www.daft.ie/for-sale/terraced-house-34-st-benedicts-gardens-dublin-7/3278900
 "Apartment 5, Malin Hall, Waterville Terrace, Waterville, Blanchardstown, Dublin 15",-6.369645,53.392291,250000.0,82,D15,8.728181896509227,http://www.daft.ie/for-sale/apartment-apartment-5-malin-hall-waterville-terrace-waterville-blanchardstown-dublin-15/3492394
 "34 De Selby Drive, Citywest, Dublin 24",-6.40824,53.276497,250000.0,83,D24,11.919475087497892,http://www.daft.ie/for-sale/terraced-house-34-de-selby-drive-citywest-dublin-24/3491290
-"37 Cranford Court, Stillorgan Road, Donnybrook, Dublin 4",-6.23048,53.319862,250000.0,50,D4,3.545825229414386,http://www.daft.ie/for-sale/apartment-37-cranford-court-stillorgan-road-donnybrook-dublin-4/3434301
 "Block 1, 1 Grange Lodge Avenue, Clongriffin, Dublin 13",-6.1546066,53.4025575,250000.0,68,D13,9.999759911473223,http://www.daft.ie/for-sale/apartment-block-1-1-grange-lodge-avenue-clongriffin-dublin-13/3281430
 "Apartment 13, Block 4C, The Moyle, Prospect Hill, Finglas, Dublin 11",-6.290764,53.381255,250000.0,79,D11,4.537927953006611,http://www.daft.ie/for-sale/apartment-apartment-13-block-4c-the-moyle-prospect-hill-finglas-dublin-11/1499149
+"37 Cranford Court, Stillorgan Road, Donnybrook, Dublin 4",-6.23048,53.319862,250000.0,50,D4,3.545825229414386,http://www.daft.ie/for-sale/apartment-37-cranford-court-stillorgan-road-donnybrook-dublin-4/3434301
+"8 Tyrrelstown Way, Tyrellstown, Tyrrelstown, Dublin 15",-6.385269,53.418402,250000.0,N/A,D15,11.471854441569974,http://www.daft.ie/for-sale/terraced-house-8-tyrrelstown-way-tyrellstown-tyrrelstown-dublin-15/3425058
 "12 Newhall Court, Blessington Road, Tallaght, Dublin 24",-6.407675,53.275403,250000.0,88,D24,11.9660454849009,http://www.daft.ie/for-sale/semi-detached-house-12-newhall-court-blessington-road-tallaght-dublin-24/3165226
 "Apartment 3, The Stockyard, The Steelworks, Dublin 1",-6.25169,53.352572,250000.0,44,D1,1.4980317204901983,http://www.daft.ie/for-sale/apartment-apartment-3-the-stockyard-the-steelworks-dublin-1/3174569
 "16 Beechfield Court, Clonee, Dublin 15",-6.439688,53.401026,250000.0,72,D15,13.13061797041467,http://www.daft.ie/for-sale/terraced-house-16-beechfield-court-clonee-dublin-15/3433726
 "Kinvara, Blessington Road, Tallaght, Dublin 24",-6.39575,53.278011,250000.0,111,D24,11.170183083258987,http://www.daft.ie/for-sale/semi-detached-house-kinvara-blessington-road-tallaght-dublin-24/3229586
-"8 Tyrrelstown Way, Tyrellstown, Tyrrelstown, Dublin 15",-6.385269,53.418402,250000.0,N/A,D15,11.471854441569974,http://www.daft.ie/for-sale/terraced-house-8-tyrrelstown-way-tyrellstown-tyrrelstown-dublin-15/3425058
 "3 Mount Garrett Crescent, Tyrellstown, Tyrrelstown, Dublin 15",-6.391963,53.42223,250000.0,N/A,D15,12.085733830971272,http://www.daft.ie/for-sale/end-of-terrace-house-3-mount-garrett-crescent-tyrellstown-tyrrelstown-dublin-15/3490431
 "74 Greenfort Gardens, Clondalkin, Dublin 22",-6.397802943537016,53.34769059687392,250000.0,86,D22,8.672831468939679,http://www.daft.ie/for-sale/end-of-terrace-house-74-greenfort-gardens-clondalkin-dublin-22/3489155
-"36 Thornberry Square, Clonee, Dublin 15",-6.412079,53.402915,250000.0,71,D15,11.689896685927675,http://www.daft.ie/for-sale/apartment-36-thornberry-square-clonee-dublin-15/3471698
 "24 Nash Street, Inchicore, Dublin 8",-6.330452,53.336085,250000.0,53,D8,4.254148609224917,http://www.daft.ie/for-sale/terraced-house-24-nash-street-inchicore-dublin-8/3479257
+"36 Thornberry Square, Clonee, Dublin 15",-6.412079,53.402915,250000.0,71,D15,11.689896685927675,http://www.daft.ie/for-sale/apartment-36-thornberry-square-clonee-dublin-15/3471698
 "20 Arranmore, 13_17 Pembroke Road, Ballsbridge, Dublin 4",-6.242581,53.332414,250000.0,38,D4,2.018640051940732,http://www.daft.ie/for-sale/apartment-20-arranmore-13-17-pembroke-road-ballsbridge-dublin-4/2734707
 "Apartment 7, Botanic Square, Botanic Avenue, Drumcondra, Dublin 9",-6.263685,53.369313,250000.0,40,D9,2.9473217607475224,http://www.daft.ie/for-sale/apartment-apartment-7-botanic-square-botanic-avenue-drumcondra-dublin-9/3483097
 "Apartment 28, Augustine Court, Christchurch, Dublin 8",-6.276693,53.343391,250000.0,N/A,D8,0.6193337419874302,http://www.daft.ie/for-sale/apartment-apartment-28-augustine-court-christchurch-dublin-8/3453665
@@ -297,8 +297,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "35 Baile Na Laochra, Ballymun, Dublin 11",-6.280857,53.405109,250000.0,102,D11,6.974690781997417,http://www.daft.ie/for-sale/terraced-house-35-baile-na-laochra-ballymun-dublin-11/3491797
 "40 Downpatrick Road, Crumlin, Dublin 12",-6.299966,53.326879,250000.0,64,D12,2.8016559227094655,http://www.daft.ie/for-sale/terraced-house-40-downpatrick-road-crumlin-dublin-12/3495984
 "15 Belmont Hall, Gardiner Street, Dublin 1",-6.257385,53.354547,250000.0,56,D1,1.4557352489747342,http://www.daft.ie/for-sale/apartment-15-belmont-hall-gardiner-street-dublin-1/3477393
-"28 Whitehall Square, Quarry Drive, Perrystown, Dublin 12",-6.312791,53.311658,250000.0,N/A,D12,4.5994742582687005,http://www.daft.ie/for-sale/apartment-28-whitehall-square-quarry-drive-perrystown-dublin-12/3289771
 "20 Greenhills Court, Tallaght, Dublin 24",-6.357192,53.288891,250000.0,N/A,D24,8.464287964196417,http://www.daft.ie/for-sale/apartment-20-greenhills-court-tallaght-dublin-24/3271859
+"28 Whitehall Square, Quarry Drive, Perrystown, Dublin 12",-6.312791,53.311658,250000.0,N/A,D12,4.5994742582687005,http://www.daft.ie/for-sale/apartment-28-whitehall-square-quarry-drive-perrystown-dublin-12/3289771
 "Apartment 23, 52 Mountjoy Square South, Dublin 1",-6.257641,53.355563,250000.0,N/A,D1,1.5499152854851626,http://www.daft.ie/for-sale/apartment-apartment-23-52-mountjoy-square-south-dublin-1/2949239
 "88 Croftwood Park, Cherry Orchard, Dublin 22",-6.363416,53.336735,250000.0,91,D22,6.411343182611455,http://www.daft.ie/for-sale/semi-detached-house-88-croftwood-park-cherry-orchard-dublin-22/3213766
 "Apartment 36, Block B, Bellevue, Islandbridge, Dublin 8",-6.311582,53.346566,250000.0,45,D8,2.961137911845634,http://www.daft.ie/for-sale/apartment-apartment-36-block-b-bellevue-islandbridge-dublin-8/3469416
@@ -322,8 +322,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "30 Archerswood, Clonee, Dublin 15",-6.408824,53.404418,255000.0,N/A,D15,11.610800082673512,http://www.daft.ie/for-sale/terraced-house-30-archerswood-clonee-dublin-15/3279527
 "39 Annesley Avenue, North Strand, Dublin 3",-6.24167,53.360504,255000.0,55,D3,2.5977223397806757,http://www.daft.ie/for-sale/terraced-house-39-annesley-avenue-north-strand-dublin-3/3212350
 "13 The Willow, Grattan Wood, Hole-In-The-Wall Road, Donaghmede, Dublin 13",-6.1632471,53.401135,255000.0,69,D13,9.469614075977006,http://www.daft.ie/for-sale/apartment-13-the-willow-grattan-wood-hole-in-the-wall-road-donaghmede-dublin-13/3228862
-"19 The Iona, Prospect Hill, Finglas, Dublin 11",-6.290548,53.379952,255000.0,N/A,D11,4.397017877399764,http://www.daft.ie/for-sale/apartment-19-the-iona-prospect-hill-finglas-dublin-11/158913
 "17 Sheepmoor Gardens, Blanchardstown, Dublin 15",-6.400757,53.394875,255000.0,84,D15,10.567966903105106,http://www.daft.ie/for-sale/terraced-house-17-sheepmoor-gardens-blanchardstown-dublin-15/3415565
+"19 The Iona, Prospect Hill, Finglas, Dublin 11",-6.290548,53.379952,255000.0,N/A,D11,4.397017877399764,http://www.daft.ie/for-sale/apartment-19-the-iona-prospect-hill-finglas-dublin-11/158913
 "47 Monastery Heath Court, Clondalkin, Dublin 22",-6.380929,53.32043,255000.0,76,D22,7.941993155351199,http://www.daft.ie/for-sale/apartment-47-monastery-heath-court-clondalkin-dublin-22/3424397
 "7 Westbourne Green, Clondalkin, Dublin 22",-6.417278,53.322019,259000.0,79,D22,10.219508429087046,http://www.daft.ie/for-sale/semi-detached-house-7-westbourne-green-clondalkin-dublin-22/3254698
 "140 Cappagh Road, Finglas West, Finglas, Dublin 11",-6.309834,53.38878,259000.0,N/A,D11,5.826977564752509,http://www.daft.ie/for-sale/terraced-house-140-cappagh-road-finglas-west-finglas-dublin-11/3491769
@@ -384,9 +384,9 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 26, Merchamp, Seafield Road East, Clontarf, Dublin 3",-6.195052,53.363297,265000.0,40,D3,5.310447561857196,http://www.daft.ie/for-sale/apartment-apartment-26-merchamp-seafield-road-east-clontarf-dublin-3/3466151
 "Apartment 24, Compass Court North, Ashtown, Dublin 15",-6.317392,53.376324,265000.0,60,D15,4.9818259943179175,http://www.daft.ie/for-sale/apartment-apartment-24-compass-court-north-ashtown-dublin-15/3470692
 "70 Greenville Place, Greenville Avenue, Dublin 8",-6.275126345370779,53.33366668311959,265000.0,N/A,D8,1.1477171898510314,http://www.daft.ie/for-sale/apartment-70-greenville-place-greenville-avenue-dublin-8/3477830
-"9 Rutland Cottages, Dublin 1",-6.251696,53.355186,265000.0,57,D1,1.718397888468255,http://www.daft.ie/for-sale/terraced-house-9-rutland-cottages-dublin-1/3251950
 "10 Cloonmore Grove, Tallaght, Dublin 24",-6.401711,53.279516,265000.0,N/A,D24,11.370754496221142,http://www.daft.ie/for-sale/end-of-terrace-house-10-cloonmore-grove-tallaght-dublin-24/3462735
 "9 Glenfield Close, Clondalkin, Dublin 22",-6.402205,53.347484,265000.0,94,D22,8.963202500101316,http://www.daft.ie/for-sale/semi-detached-house-9-glenfield-close-clondalkin-dublin-22/3474903
+"9 Rutland Cottages, Dublin 1",-6.251696,53.355186,265000.0,57,D1,1.718397888468255,http://www.daft.ie/for-sale/terraced-house-9-rutland-cottages-dublin-1/3251950
 "Apartment 2, Beaucourt, Achill Road, Drumcondra, Dublin 9",-6.253586,53.375153,265000.0,42,D9,3.7016764132459734,http://www.daft.ie/for-sale/apartment-apartment-2-beaucourt-achill-road-drumcondra-dublin-9/3480175
 "35 Saint Aongus Green, Tallaght, Dublin 24",-6.342827,53.295777,265000.0,80,D24,7.249601042895013,http://www.daft.ie/for-sale/terraced-house-35-saint-aongus-green-tallaght-dublin-24/3262801
 "9 Reginald Square, Dublin 8",-6.278686,53.340025,265000.0,53,D8,0.8146089226747553,http://www.daft.ie/for-sale/terraced-house-9-reginald-square-dublin-8/3490209
@@ -395,16 +395,16 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "1 Knocklyon Gate, Knocklyon, Dublin 16",-6.330018,53.276381,265000.0,71,D16,8.486261724327456,http://www.daft.ie/for-sale/apartment-1-knocklyon-gate-knocklyon-dublin-16/3495418
 "Apartment 147, Ulysses, Viking Harbour Apartments, Islandbridge, Dublin 8",-6.282906,53.345996,265000.0,N/A,D8,1.0853880141359322,http://www.daft.ie/for-sale/apartment-apartment-147-ulysses-viking-harbour-apartments-islandbridge-dublin-8/2874198
 "45 Derry Park, Crumlin, Dublin 12",-6.31191,53.322702,265000.0,58,D12,3.712059267515365,http://www.daft.ie/for-sale/terraced-house-45-derry-park-crumlin-dublin-12/3477575
-"Apartment 73, Finnegan House, Viking Harbour Apartments, Dublin 8",-6.283434,53.345868,265000.0,48,D8,1.1143878874246238,http://www.daft.ie/for-sale/apartment-apartment-73-finnegan-house-viking-harbour-apartments-dublin-8/3222698
 "24 Sherrard Avenue, Dublin 1",-6.258281,53.360146,265000.0,50,D1,2.010915222798259,http://www.daft.ie/for-sale/end-of-terrace-house-24-sherrard-avenue-dublin-1/3464343
+"Apartment 73, Finnegan House, Viking Harbour Apartments, Dublin 8",-6.283434,53.345868,265000.0,48,D8,1.1143878874246238,http://www.daft.ie/for-sale/apartment-apartment-73-finnegan-house-viking-harbour-apartments-dublin-8/3222698
 "35 Glin Road, Coolock, Dublin 17",-6.205994,53.3995,265000.0,82,D17,7.497042601412196,http://www.daft.ie/for-sale/end-of-terrace-house-35-glin-road-coolock-dublin-17/3482946
 "8 Emerald Terrace, St. Catherine's, South City Centre, Dublin 8",-6.288937,53.335615,265000.0,56,D8,1.6433945008259938,http://www.daft.ie/for-sale/terraced-house-8-emerald-terrace-st-catherines-south-city-centre-dublin-8/3486884
 "33 Arranmore, 13-17 Pembroke Road, Ballsbridge, Dublin 4",-6.242581,53.332414,265000.0,53,D4,2.018640051940732,http://www.daft.ie/for-sale/apartment-33-arranmore-13-17-pembroke-road-ballsbridge-dublin-4/2496784
 "28 Beech House, Carrickmines Green, Carrickmines, Dublin 18",-6.178599663098112,53.24949040349236,269000.0,60,D18,11.946187149747225,http://www.daft.ie/for-sale/apartment-28-beech-house-carrickmines-green-carrickmines-dublin-18/3212539
 "38 Melville Park, Finglas, Dublin 11",-6.295977,53.401025,269950.0,117,D11,6.73551496673703,http://www.daft.ie/for-sale/duplex-38-melville-park-finglas-dublin-11/26495
 "58 Churchwell Drive, Belmayne, Balgriffin, Dublin 13",-6.170971,53.406651,269950.0,70,D13,9.548267763501523,http://www.daft.ie/for-sale/apartment-58-churchwell-drive-belmayne-balgriffin-dublin-13/3422653
-"162 Mellowes Road, Finglas West, Finglas, Dublin 11",-6.316216,53.391155,269950.0,N/A,D11,6.267466315767439,http://www.daft.ie/for-sale/terraced-house-162-mellowes-road-finglas-west-finglas-dublin-11/3199569
 "44 O'Moore Road, Ballyfermot, Dublin 10",-6.335671,53.342014,269950.0,N/A,D1,4.533363826618114,http://www.daft.ie/for-sale/terraced-house-44-omoore-road-ballyfermot-dublin-10/2859371
+"162 Mellowes Road, Finglas West, Finglas, Dublin 11",-6.316216,53.391155,269950.0,N/A,D11,6.267466315767439,http://www.daft.ie/for-sale/terraced-house-162-mellowes-road-finglas-west-finglas-dublin-11/3199569
 "61 Lymewood Mews, Northwood, Santry, Dublin 9",-6.255046,53.399552,269950.0,N/A,D9,6.352507781295634,http://www.daft.ie/for-sale/apartment-61-lymewood-mews-northwood-santry-dublin-9/3271905
 "3 Clogher Road, Crumlin, Dublin 12",-6.299372,53.325328,270000.0,55,D12,2.8852454882404834,http://www.daft.ie/for-sale/terraced-house-3-clogher-road-crumlin-dublin-12/3458965
 "95 Oakcourt Drive, Palmerstown, Dublin 20",-6.37319,53.349264,270000.0,55,D2,7.0580262406186645,http://www.daft.ie/for-sale/semi-detached-house-95-oakcourt-drive-palmerstown-dublin-20/3425144
@@ -413,8 +413,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "5 Castlewood, Huntstown, Clonsilla, Dublin 15",-6.415744,53.398403,270000.0,81,D15,11.61661414497442,http://www.daft.ie/for-sale/semi-detached-house-5-castlewood-huntstown-clonsilla-dublin-15/3433856
 "Apartment 3, Block 1, Dundrum Gate, Dundrum, Dublin 16",-6.245799,53.288403,270000.0,40,D16,6.22736346994082,http://www.daft.ie/for-sale/apartment-apartment-3-block-1-dundrum-gate-dundrum-dublin-16/3440723
 "Apartment 27, Temple Court, Northwood, Santry, Dublin 9",-6.248672,53.406384,270000.0,74,D9,7.167587861587089,http://www.daft.ie/for-sale/apartment-apartment-27-temple-court-northwood-santry-dublin-9/3491942
-"Apartment 3, Meridian Court, Ashtown, Dublin 15",-6.311975,53.377083,270000.0,75,D15,4.816329759048014,http://www.daft.ie/for-sale/apartment-apartment-3-meridian-court-ashtown-dublin-15/3241016
 "29 Captain's Avenue, Crumlin, Dublin 12",-6.309605,53.317391,270000.0,62,D12,3.987542315036723,http://www.daft.ie/for-sale/terraced-house-29-captains-avenue-crumlin-dublin-12/3183413
+"Apartment 3, Meridian Court, Ashtown, Dublin 15",-6.311975,53.377083,270000.0,75,D15,4.816329759048014,http://www.daft.ie/for-sale/apartment-apartment-3-meridian-court-ashtown-dublin-15/3241016
 "104 Fortlawn Avenue, Blanchardstown, Dublin 15",-6.4031859,53.390806,270000.0,N/A,D15,10.466238162043828,http://www.daft.ie/for-sale/terraced-house-104-fortlawn-avenue-blanchardstown-dublin-15/137941
 "4 Garrynisk Square, Tallaght, Dublin 24",-6.375764,53.300625,270000.0,N/A,D24,8.59652108759066,http://www.daft.ie/for-sale/terraced-house-4-garrynisk-square-tallaght-dublin-24/3483447
 "67 Moatview Gardens, Priorswood, Coolock, Dublin 5",-6.200289,53.401447,270000.0,110,D5,7.886930419072969,http://www.daft.ie/for-sale/end-of-terrace-house-67-moatview-gardens-priorswood-coolock-dublin-5/3485446
@@ -434,14 +434,14 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "17 Ashfield Grove, Clonsilla, Dublin 15",-6.405513,53.403343,274950.0,N/A,D15,11.363038063205208,http://www.daft.ie/for-sale/semi-detached-house-17-ashfield-grove-clonsilla-dublin-15/3475288
 "56 The Paddocks, Hybreasal, Kilmainham, Dublin 8",-6.307186,53.338439,274950.0,48,D8,2.687549699103425,http://www.daft.ie/for-sale/apartment-56-the-paddocks-hybreasal-kilmainham-dublin-8/3495831
 "214 Clonard Road, Crumlin, Dublin 12",-6.305489,53.321778,275000.0,N/A,D12,3.4515340047058856,http://www.daft.ie/for-sale/terraced-house-214-clonard-road-crumlin-dublin-12/3433508
-"6 Saint Dominic's Avenue, Tallaght, Dublin 24",-6.355157,53.286065,275000.0,93,D24,8.59797178697633,http://www.daft.ie/for-sale/end-of-terrace-house-6-saint-dominics-avenue-tallaght-dublin-24/3468104
-"443 Ballyfermot Road, Ballyfermot, Dublin 10",-6.364075,53.342799,275000.0,82,D1,6.4178943627514355,http://www.daft.ie/for-sale/terraced-house-443-ballyfermot-road-ballyfermot-dublin-10/3450487
 "13 Newlands Manor Fairways, Clondalkin, Dublin 22",-6.407336,53.307327,275000.0,110,D22,10.10043301003842,http://www.daft.ie/for-sale/duplex-13-newlands-manor-fairways-clondalkin-dublin-22/3431662
 "49 Saint Joseph's Place, Phibsborough, Dublin 7",-6.266805,53.357053,275000.0,46,D7,1.5742372611261901,http://www.daft.ie/for-sale/terraced-house-49-saint-josephs-place-phibsborough-dublin-7/3280715
+"443 Ballyfermot Road, Ballyfermot, Dublin 10",-6.364075,53.342799,275000.0,82,D1,6.4178943627514355,http://www.daft.ie/for-sale/terraced-house-443-ballyfermot-road-ballyfermot-dublin-10/3450487
+"6 Saint Dominic's Avenue, Tallaght, Dublin 24",-6.355157,53.286065,275000.0,93,D24,8.59797178697633,http://www.daft.ie/for-sale/end-of-terrace-house-6-saint-dominics-avenue-tallaght-dublin-24/3468104
 "22 Charlestown Avenue, Saint Margaret's Road, Finglas, Dublin 11",-6.297665,53.403662,275000.0,102,D11,7.048427278463362,http://www.daft.ie/for-sale/duplex-22-charlestown-avenue-saint-margarets-road-finglas-dublin-11/3462109
 "87A Beechwood Downs, Clonsilla, Dublin 15",-6.419017,53.398619,275000.0,106,D15,11.813695375999515,http://www.daft.ie/for-sale/detached-house-87a-beechwood-downs-clonsilla-dublin-15/3185222
-"43 Glin Grove, Coolock, Dublin 5",-6.203139,53.400527,275000.0,83,D5,7.6964123419424215,http://www.daft.ie/for-sale/terraced-house-43-glin-grove-coolock-dublin-5/2550456
 "87 Griffith Hall, Drumcondra, Dublin 9",-6.236932,53.373804,275000.0,49,D9,3.9870767481103644,http://www.daft.ie/for-sale/apartment-87-griffith-hall-drumcondra-dublin-9/3474782
+"43 Glin Grove, Coolock, Dublin 5",-6.203139,53.400527,275000.0,83,D5,7.6964123419424215,http://www.daft.ie/for-sale/terraced-house-43-glin-grove-coolock-dublin-5/2550456
 "Apartment 9, 52 Mountjoy Square South, Dublin 1",-6.257641,53.355563,275000.0,N/A,D1,1.5499152854851626,http://www.daft.ie/for-sale/apartment-apartment-9-52-mountjoy-square-south-dublin-1/2594689
 "158 Cherrywood Park, Clondalkin, Dublin 22",-6.412742,53.318783,275000.0,70,D22,10.01705016049148,http://www.daft.ie/for-sale/semi-detached-house-158-cherrywood-park-clondalkin-dublin-22/3472791
 "1 31 James's Walk, Rialto, Dublin 8",-6.293187,53.33815,275000.0,69,D8,1.7916175107942272,http://www.daft.ie/for-sale/apartment-1-31-jamess-walk-rialto-dublin-8/3433542
@@ -567,9 +567,9 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "20 Nash Street, Inchicore, Dublin 8",-6.33023,53.336077,290000.0,52,D8,4.2398057247249294,http://www.daft.ie/for-sale/terraced-house-20-nash-street-inchicore-dublin-8/3211144
 "17 Wellmount Parade, Finglas, Dublin 11",-6.292932,53.38973,294950.0,N/A,D11,5.475884255308339,http://www.daft.ie/for-sale/semi-detached-house-17-wellmount-parade-finglas-dublin-11/3255794
 "14 Hazelwood Crescent, Hartstown, Clonsilla, Dublin 15",-6.418235,53.393341,294950.0,N/A,D15,11.472006813198332,http://www.daft.ie/for-sale/semi-detached-house-14-hazelwood-crescent-hartstown-clonsilla-dublin-15/3460562
+"Apartment 13, Clearwater Court North, River Drive, Ashtown, Dublin 15",-6.316825,53.377421,295000.0,89,D15,5.048926965993642,http://www.daft.ie/for-sale/apartment-apartment-13-clearwater-court-north-river-drive-ashtown-dublin-15/3487944
 "Apartment 4, Dundrum Castle House, Dundrum Castle, Dundrum, Dublin 14",-6.245605,53.287598,295000.0,46,D14,6.317444469589449,http://www.daft.ie/for-sale/apartment-apartment-4-dundrum-castle-house-dundrum-castle-dundrum-dublin-14/3467818
 "21 Elm Park Terrace, Terenure, Dublin 6",-6.283791,53.310818,295000.0,43,D6,3.729739165344008,http://www.daft.ie/for-sale/terraced-house-21-elm-park-terrace-terenure-dublin-6/3286896
-"Apartment 13, Clearwater Court North, River Drive, Ashtown, Dublin 15",-6.316825,53.377421,295000.0,89,D15,5.048926965993642,http://www.daft.ie/for-sale/apartment-apartment-13-clearwater-court-north-river-drive-ashtown-dublin-15/3487944
 "44 Rathborne Place, Ashtown, Dublin 15",-6.3262335,53.3779731,295000.0,69,D15,5.518312417165434,http://www.daft.ie/for-sale/apartment-44-rathborne-place-ashtown-dublin-15/3479364
 "35 Yellow Meadows Drive, Clondalkin, Dublin 22",-6.380268,53.326069,295000.0,N/A,D22,7.724494059261813,http://www.daft.ie/for-sale/end-of-terrace-house-35-yellow-meadows-drive-clondalkin-dublin-22/3482264
 "19 Lurgan Street, Smithfield, Dublin 7",-6.272128,53.350554,295000.0,56,D7,0.907108725764667,http://www.daft.ie/for-sale/terraced-house-19-lurgan-street-smithfield-dublin-7/3489855
@@ -583,19 +583,19 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apt. 4, Clifden Court, (Parking Space Option), Ellis Quay, Smithfield, Dublin 7",-6.28349,53.347096,295000.0,40,D7,1.1655594382536096,http://www.daft.ie/for-sale/apartment-apt-4-clifden-court-parking-space-option-ellis-quay-smithfield-dublin-7/3473125
 "104 Derrynane Square, Phibsborough, Dublin 7",-6.261521,53.360506,295000.0,52,D7,1.9962063148494416,http://www.daft.ie/for-sale/apartment-104-derrynane-square-phibsborough-dublin-7/3492217
 "48 Rialto Cottages, Rialto, Dublin 8",-6.295652,53.337058,295000.0,39,D8,1.9849722953891022,http://www.daft.ie/for-sale/terraced-house-48-rialto-cottages-rialto-dublin-8/3486500
-"2 Ferrycarrig Road, Coolock, Dublin 17",-6.202582,53.398905,295000.0,73,D17,7.567893876495363,http://www.daft.ie/for-sale/semi-detached-house-2-ferrycarrig-road-coolock-dublin-17/3248278
 "26 Ashfield Way, Clonsilla, Dublin 15",-6.406111,53.402365,295000.0,74,D15,11.33133439622116,http://www.daft.ie/for-sale/bungalow-26-ashfield-way-clonsilla-dublin-15/3430499
 "Site, 10 Corrig Road, Dalkey, Co. Dublin",-6.103032,53.279595,295000.0,N/A,Co. D,12.992046633978417,http://www.daft.ie/for-sale/site-site-10-corrig-road-dalkey-co-dublin/3495410
 "20 Cumberland Row, Cumberland Street North, Dublin 1",-6.258172,53.353375,295000.0,76,D1,1.316009849926743,http://www.daft.ie/for-sale/apartment-20-cumberland-row-cumberland-street-north-dublin-1/3458831
-"140 Alpine Heights, Clondalkin, Dublin 22",-6.4061254,53.3249888,295000.0,N/A,D22,9.424223600904758,http://www.daft.ie/for-sale/terraced-house-140-alpine-heights-clondalkin-dublin-22/3465977
+"2 Ferrycarrig Road, Coolock, Dublin 17",-6.202582,53.398905,295000.0,73,D17,7.567893876495363,http://www.daft.ie/for-sale/semi-detached-house-2-ferrycarrig-road-coolock-dublin-17/3248278
 "19 Dorset Square, Upper Gardiner Street, Dublin 1",-6.261216,53.357912,295000.0,62,D1,1.71898226328722,http://www.daft.ie/for-sale/apartment-19-dorset-square-upper-gardiner-street-dublin-1/3464585
+"140 Alpine Heights, Clondalkin, Dublin 22",-6.4061254,53.3249888,295000.0,N/A,D22,9.424223600904758,http://www.daft.ie/for-sale/terraced-house-140-alpine-heights-clondalkin-dublin-22/3465977
 "19 Mill Court Avenue, Clondalkin, Dublin 22",-6.4156,53.320971,295000.0,92,D22,10.1385426948312,http://www.daft.ie/for-sale/terraced-house-19-mill-court-avenue-clondalkin-dublin-22/3418724
 "5 Station Close, Station Road, Clondalkin, Dublin 22",-6.3963018,53.3304075,295000.0,101,D22,8.670538653471665,http://www.daft.ie/for-sale/terraced-house-5-station-close-station-road-clondalkin-dublin-22/3262640
 "25 The Belfry, Kilbarrack Road, Kilbarrack, Dublin 5",-6.15244,53.388758,295000.0,61,D5,9.175102808003631,http://www.daft.ie/for-sale/apartment-25-the-belfry-kilbarrack-road-kilbarrack-dublin-5/3427675
+"Apartment 142, The Lighthouse, Church Road, East Wall, Dublin 3",-6.234724,53.357107,295000.0,55,D3,2.6832071436495943,http://www.daft.ie/for-sale/apartment-apartment-142-the-lighthouse-church-road-east-wall-dublin-3/3278867
 "Sandon Cove, Apt 6 Castle Avenue, Clontarf, Dublin 3",-6.2087024030273,53.361168215923,295000.0,57,D3,4.393645268708736,http://www.daft.ie/for-sale/apartment-sandon-cove-apt-6-castle-avenue-clontarf-dublin-3/3289091
 "Sandon Cove, Apt 12 Castle Avenue, Clontarf, Dublin 3",-6.2079322134918,53.362891122437,295000.0,57,D3,4.529837644043116,http://www.daft.ie/for-sale/apartment-sandon-cove-apt-12-castle-avenue-clontarf-dublin-3/3289093
 "55 Casement Park, Finglas West, Finglas, Dublin 11",-6.310135,53.392245,295000.0,N/A,D11,6.176207065402887,http://www.daft.ie/for-sale/end-of-terrace-house-55-casement-park-finglas-west-finglas-dublin-11/3276772
-"Apartment 142, The Lighthouse, Church Road, East Wall, Dublin 3",-6.234724,53.357107,295000.0,55,D3,2.6832071436495943,http://www.daft.ie/for-sale/apartment-apartment-142-the-lighthouse-church-road-east-wall-dublin-3/3278867
 "152 Ballygall Parade, Finglas East, Finglas, Dublin 11",-6.294618,53.388832,295000.0,N/A,D11,5.417282481928475,http://www.daft.ie/for-sale/end-of-terrace-house-152-ballygall-parade-finglas-east-finglas-dublin-11/2944275
 "18 Edgewood Lawns, Blanchardstown, Dublin 15",-6.380453,53.39616,295000.0,92,D15,9.556664073863653,http://www.daft.ie/for-sale/semi-detached-house-18-edgewood-lawns-blanchardstown-dublin-15/3453380
 "14 Barnwell Place, Ongar Village, Ongar, Dublin 15",-6.443735,53.392795,295000.0,102,D15,12.948190646781052,http://www.daft.ie/for-sale/terraced-house-14-barnwell-place-ongar-village-ongar-dublin-15/3436939
@@ -802,11 +802,11 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 72, The Ramparts, Cabinteely, Dublin 18",-6.143928,53.250429,324950.0,72,D18,13.155204543631807,http://www.daft.ie/for-sale/apartment-apartment-72-the-ramparts-cabinteely-dublin-18/3495665
 "112 Walkinstown Avenue, Walkinstown",-6.335604,53.317847,324950.0,N/A,N/A,5.31728274734985,http://www.daft.ie/for-sale/terraced-house-112-walkinstown-avenue-walkinstown/3463223
 "274 Cashel Road, Crumlin, Dublin 12",-6.303276,53.317966,324950.0,N/A,D12,3.6554898674056684,http://www.daft.ie/for-sale/end-of-terrace-house-274-cashel-road-crumlin-dublin-12/3281353
-"Apartment 14, Sycamore, Ballybrack, Co. Dublin",-6.124135,53.251068,325000.0,79,Co. D,13.961368748114086,http://www.daft.ie/for-sale/apartment-apartment-14-sycamore-ballybrack-co-dublin/3460463
-"5 Tower Court, St Johns Road, Sandymount, Dublin 4",-6.20775,53.324783,325000.0,43,D4,4.443647626155261,http://www.daft.ie/for-sale/apartment-5-tower-court-st-johns-road-sandymount-dublin-4/3174970
-"71 Hazelbury Park, Clonee, Dublin 15",-6.4331496,53.4008833,325000.0,97,D15,12.746813115821585,http://www.daft.ie/for-sale/semi-detached-house-71-hazelbury-park-clonee-dublin-15/3268773
 "52 Raheen Avenue, Tallaght, Dublin 24",-6.38829,53.284722,325000.0,98,D24,10.312341838131754,http://www.daft.ie/for-sale/end-of-terrace-house-52-raheen-avenue-tallaght-dublin-24/3203701
 "3 Church Square, Church Road, East Wall, Dublin 3",-6.235269,53.355424,325000.0,60,D3,2.54714045577855,http://www.daft.ie/for-sale/terraced-house-3-church-square-church-road-east-wall-dublin-3/3430602
+"Apartment 14, Sycamore, Ballybrack, Co. Dublin",-6.124135,53.251068,325000.0,79,Co. D,13.961368748114086,http://www.daft.ie/for-sale/apartment-apartment-14-sycamore-ballybrack-co-dublin/3460463
+"71 Hazelbury Park, Clonee, Dublin 15",-6.4331496,53.4008833,325000.0,97,D15,12.746813115821585,http://www.daft.ie/for-sale/semi-detached-house-71-hazelbury-park-clonee-dublin-15/3268773
+"5 Tower Court, St Johns Road, Sandymount, Dublin 4",-6.20775,53.324783,325000.0,43,D4,4.443647626155261,http://www.daft.ie/for-sale/apartment-5-tower-court-st-johns-road-sandymount-dublin-4/3174970
 "Apartment 33, The Bay, Dublin 4",-6.206721,53.313204,325000.0,58,D4,5.20975407817226,http://www.daft.ie/for-sale/apartment-apartment-33-the-bay-dublin-4/2939936
 "58 Clancy Road, Finglas, Dublin 11",-6.293487,53.394777,325000.0,92,D11,6.022512221219745,http://www.daft.ie/for-sale/terraced-house-58-clancy-road-finglas-dublin-11/3495515
 "Apartment 26, Block 2, Dundrum Gate, Dundrum, Dublin 14",-6.24535,53.288225,325000.0,53,D14,6.253544786680833,http://www.daft.ie/for-sale/apartment-apartment-26-block-2-dundrum-gate-dundrum-dublin-14/3496054
@@ -831,12 +831,12 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "145 Downpatrick Road, Crumlin, Dublin 12",-6.296551,53.329673,325000.0,N/A,D12,2.4309307024133124,http://www.daft.ie/for-sale/terraced-house-145-downpatrick-road-crumlin-dublin-12/3198701
 "32 Captains Avenue, Crumlin, Dublin 12",-6.310314,53.318427,325000.0,109,D12,3.9403275928348247,http://www.daft.ie/for-sale/end-of-terrace-house-32-captains-avenue-crumlin-dublin-12/3213102
 "15 Priory Hall, Manor Grove, Terenure, Dublin 6",-6.312197,53.308971,325000.0,64,D6,4.804645780191347,http://www.daft.ie/for-sale/apartment-15-priory-hall-manor-grove-terenure-dublin-6/3475624
+"25 The Wheatbarn Bakers Yard Portland Street Dublin 1, North Circular Road, Dublin 1",-6.255915,53.359547,325000.0,N/A,D1,2.001880358501709,http://www.daft.ie/for-sale/apartment-25-the-wheatbarn-bakers-yard-portland-street-dublin-1-north-circular-road-dublin-1/2928394
 "46 Stewart Hall, Ryders Row, Parnell Square, Dublin 1",-6.268754,53.350239,325000.0,70,D1,0.8209941910877315,http://www.daft.ie/for-sale/apartment-46-stewart-hall-ryders-row-parnell-square-dublin-1/3491313
 "8 Glendun Road, Whitehall, Dublin 9",-6.245724,53.386357,325000.0,79,D9,5.041696635204517,http://www.daft.ie/for-sale/terraced-house-8-glendun-road-whitehall-dublin-9/3476576
-"25 The Wheatbarn Bakers Yard Portland Street Dublin 1, North Circular Road, Dublin 1",-6.255915,53.359547,325000.0,N/A,D1,2.001880358501709,http://www.daft.ie/for-sale/apartment-25-the-wheatbarn-bakers-yard-portland-street-dublin-1-north-circular-road-dublin-1/2928394
 "33 Clanmaurice Road, Donnycarney, Dublin 3",-6.212864,53.375386,325000.0,73,D3,5.11332595297397,http://www.daft.ie/for-sale/semi-detached-house-33-clanmaurice-road-donnycarney-dublin-3/3185476
-"Sancta Maris, 7 Moatfield Road, Artane, Dublin 5",-6.191546,53.38845,325000.0,N/A,D5,7.140322246629583,http://www.daft.ie/for-sale/terraced-house-sancta-maris-7-moatfield-road-artane-dublin-5/3416012
 "102 Brandon Road, Drimnagh, Dublin 12",-6.327147,53.326218,325000.0,78,D12,4.379395659089945,http://www.daft.ie/for-sale/terraced-house-102-brandon-road-drimnagh-dublin-12/3214707
+"Sancta Maris, 7 Moatfield Road, Artane, Dublin 5",-6.191546,53.38845,325000.0,N/A,D5,7.140322246629583,http://www.daft.ie/for-sale/terraced-house-sancta-maris-7-moatfield-road-artane-dublin-5/3416012
 "Saint Brigids, 135 Bannow Road, Dublin 7",-6.292045,53.370074,325000.0,80,D7,3.4358700662559336,http://www.daft.ie/for-sale/semi-detached-house-saint-brigids-135-bannow-road-dublin-7/2940898
 "19 Saint Brendan's Crescent, Greenhills, Walkinstown, Dublin 12",-6.336499,53.311033,325000.0,N/A,D12,5.797782617178453,http://www.daft.ie/for-sale/semi-detached-house-19-saint-brendans-crescent-greenhills-walkinstown-dublin-12/3489486
 "1A Oakwood Road, Finglas, Dublin 11",-6.291305,53.397516,325000.0,N/A,D11,6.276688071674563,http://www.daft.ie/for-sale/detached-house-1a-oakwood-road-finglas-dublin-11/3268263
@@ -847,8 +847,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "25 Wolfe Tone Street, Dublin 1",-6.267827,53.349399,325000.0,60,D1,0.7232114965122688,http://www.daft.ie/for-sale/apartment-25-wolfe-tone-street-dublin-1/3432443
 "3 Errigal Gardens, Drimnagh, Dublin 12",-6.321613,53.326534,325000.0,90,D12,4.033538480978221,http://www.daft.ie/for-sale/terraced-house-3-errigal-gardens-drimnagh-dublin-12/3475340
 "Apartment 29, The Atrium, The Steelworks, Dublin 1",-6.251498,53.352301,325000.0,91,D1,1.4855775357496948,http://www.daft.ie/for-sale/apartment-apartment-29-the-atrium-the-steelworks-dublin-1/3287290
-"75 Park View, Rathborne, Ashtown, Dublin 15",-6.326682,53.378489,325000.0,87,D15,5.579927799494852,http://www.daft.ie/for-sale/duplex-75-park-view-rathborne-ashtown-dublin-15/3462315
 "Apartment 16, Hollybrook Manor, Clontarf, Dublin 3",-6.21823,53.366284,325000.0,73,D3,4.172545782372612,http://www.daft.ie/for-sale/apartment-apartment-16-hollybrook-manor-clontarf-dublin-3/3495773
+"75 Park View, Rathborne, Ashtown, Dublin 15",-6.326682,53.378489,325000.0,87,D15,5.579927799494852,http://www.daft.ie/for-sale/duplex-75-park-view-rathborne-ashtown-dublin-15/3462315
 "10 Moland House, Talbot Street, Dublin 1",-6.256091,53.350604,325000.0,70,D1,1.1390265310599386,http://www.daft.ie/for-sale/apartment-10-moland-house-talbot-street-dublin-1/3167772
 "61 Westland Square, Pearse Street, South City Centre, Dublin 2",-6.247442,53.343768,325000.0,54,D2,1.3284314116223659,http://www.daft.ie/for-sale/apartment-61-westland-square-pearse-street-south-city-centre-dublin-2/3491273
 "8 Shanganagh Gardens, Rathsallagh Drive, Shankill, Dublin 18",-6.119165,53.236628,325000.0,90,D18,15.385732838962568,http://www.daft.ie/for-sale/apartment-8-shanganagh-gardens-rathsallagh-drive-shankill-dublin-18/3473068
@@ -919,8 +919,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "15 Lissadel Road, Drimnagh, Dublin 12",-6.312556,53.32845,335000.0,N/A,D12,3.4016373927411396,http://www.daft.ie/for-sale/semi-detached-house-15-lissadel-road-drimnagh-dublin-12/3481723
 "446a The Oaks, Belgard Heights, Tallaght, Dublin 24",-6.378953,53.299512,335000.0,102,D24,8.84162291438959,http://www.daft.ie/for-sale/semi-detached-house-446a-the-oaks-belgard-heights-tallaght-dublin-24/3414618
 "6 Fingal Place, Stoneybatter, Dublin 7",-6.285574,53.35409,339950.0,N/A,D7,1.7330533832912471,http://www.daft.ie/for-sale/end-of-terrace-house-6-fingal-place-stoneybatter-dublin-7/2938704
-"19 Mount Symon Dale, Clonsilla, Dublin 15",-6.381205,53.38746,339950.0,N/A,D15,9.031607364034304,http://www.daft.ie/for-sale/semi-detached-house-19-mount-symon-dale-clonsilla-dublin-15/3205854
 "19 Mount Symon Dale, Clonsilla, Dublin 15",-6.381205,53.38746,339950.0,N/A,D15,9.031607364034304,http://www.daft.ie/for-sale/semi-detached-house-19-mount-symon-dale-clonsilla-dublin-15/3470542
+"19 Mount Symon Dale, Clonsilla, Dublin 15",-6.381205,53.38746,339950.0,N/A,D15,9.031607364034304,http://www.daft.ie/for-sale/semi-detached-house-19-mount-symon-dale-clonsilla-dublin-15/3205854
 "91 Briarfield Grove, Kilbarrack, Dublin 5",-6.155367,53.389311,339950.0,N/A,D5,9.049182586246626,http://www.daft.ie/for-sale/terraced-house-91-briarfield-grove-kilbarrack-dublin-5/2947833
 "3 Claremont Lawns, Glasnevin, Dublin 11",-6.279592,53.369027,340000.0,82,D11,3.0157622187312563,http://www.daft.ie/for-sale/terraced-house-3-claremont-lawns-glasnevin-dublin-11/2940625
 "6 Brookmount Avenue, Tallaght, Dublin 24",-6.335138,53.290671,340000.0,94,D24,7.34675098130852,http://www.daft.ie/for-sale/semi-detached-house-6-brookmount-avenue-tallaght-dublin-24/3226850
@@ -949,8 +949,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "122 Clonmacnoise Road, Crumlin, Dublin 12",-6.301881,53.322763,340000.0,N/A,D12,3.202496053203728,http://www.daft.ie/for-sale/end-of-terrace-house-122-clonmacnoise-road-crumlin-dublin-12/3490614
 "659 Carnlough Road, Cabra, Dublin 7",-6.304399,53.371178,340000.0,70,D7,3.9894959033575046,http://www.daft.ie/for-sale/semi-detached-house-659-carnlough-road-cabra-dublin-7/3483940
 "93 Park Drive Avenue, Castleknock, Dublin 15",-6.367241,53.37564,345000.0,N/A,D15,7.559813560008604,http://www.daft.ie/for-sale/semi-detached-house-93-park-drive-avenue-castleknock-dublin-15/3483355
-"8 Redwood Avenue, Kilnamanagh, Tallaght, Dublin 24",-6.361585,53.298703,345000.0,N/A,D24,7.9553347077196275,http://www.daft.ie/for-sale/semi-detached-house-8-redwood-avenue-kilnamanagh-tallaght-dublin-24/3263825
 "52 Belmayne Park North, Balgriffin",-6.171906,53.405563,345000.0,104,N/A,9.417017045911257,http://www.daft.ie/for-sale/terraced-house-52-belmayne-park-north-balgriffin/3418699
+"8 Redwood Avenue, Kilnamanagh, Tallaght, Dublin 24",-6.361585,53.298703,345000.0,N/A,D24,7.9553347077196275,http://www.daft.ie/for-sale/semi-detached-house-8-redwood-avenue-kilnamanagh-tallaght-dublin-24/3263825
 "21 Grangemore Rise, Raheny, Dublin 5",-6.166951,53.395836,345000.0,N/A,D5,8.891574931770512,http://www.daft.ie/for-sale/semi-detached-house-21-grangemore-rise-raheny-dublin-5/3471277
 "3 Leix Road, Cabra, Dublin 7",-6.283663,53.361956,345000.0,63,D7,2.3780164835004274,http://www.daft.ie/for-sale/semi-detached-house-3-leix-road-cabra-dublin-7/3468261
 "31 Galtymore Road, Drimnagh, Dublin 12",-6.323253,53.331098,345000.0,75,D12,3.93373191808341,http://www.daft.ie/for-sale/end-of-terrace-house-31-galtymore-road-drimnagh-dublin-12/3261501
@@ -962,8 +962,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "75 Caledon Road, East Wall, Dublin 3",-6.234534,53.353865,345000.0,72,D3,2.4991606382618743,http://www.daft.ie/for-sale/semi-detached-house-75-caledon-road-east-wall-dublin-3/3493633
 "9 Blackthorn Hall, Ticknock Hill, Sandyford, Dublin 18",-6.243735,53.26805,345000.0,84,D18,8.4701707529498,http://www.daft.ie/for-sale/apartment-9-blackthorn-hall-ticknock-hill-sandyford-dublin-18/3430372
 "204 The Cubes 3, Beacon South Quarter, Sandyford, Dublin 18",-6.21693,53.27688,345000.0,78,D18,8.070617200659255,http://www.daft.ie/for-sale/apartment-204-the-cubes-3-beacon-south-quarter-sandyford-dublin-18/3472802
-"10 New Row Square Dublin 8, Dublin 8",-6.274583,53.338032,345000.0,60,D8,0.7213983625570386,http://www.daft.ie/for-sale/terraced-house-10-new-row-square-dublin-8-dublin-8/3148961
 "13 Broomfield Hall, Broomfield Court, Shankill, Dublin 18",-6.123752,53.240077,345000.0,97,D18,14.895685058140408,http://www.daft.ie/for-sale/apartment-13-broomfield-hall-broomfield-court-shankill-dublin-18/2902752
+"10 New Row Square Dublin 8, Dublin 8",-6.274583,53.338032,345000.0,60,D8,0.7213983625570386,http://www.daft.ie/for-sale/terraced-house-10-new-row-square-dublin-8-dublin-8/3148961
 "Apartment 3, 7 Castle Avenue, Clontarf, Dublin 3",-6.209506,53.361308,345000.0,47,D3,4.353702061060341,http://www.daft.ie/for-sale/apartment-apartment-3-7-castle-avenue-clontarf-dublin-3/3478724
 "30 Cloonlara Square, Phoenix Park racecourse, Castleknock, Dublin 15",-6.337696235508446,53.373551007946986,345000.0,85,D15,5.777408511174483,http://www.daft.ie/for-sale/apartment-30-cloonlara-square-phoenix-park-racecourse-castleknock-dublin-15/3484863
 "53 Clandonagh Road, Donnycarney, Dublin 5",-6.213763,53.376521,345000.0,71,D5,5.161901042352283,http://www.daft.ie/for-sale/semi-detached-house-53-clandonagh-road-donnycarney-dublin-5/3476842
@@ -972,8 +972,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "1A Robinhood Park, Long Mile Road, Walkinstown, Dublin 12",-6.346835,53.32328,345000.0,71,D12,5.707968960334007,http://www.daft.ie/for-sale/semi-detached-house-1a-robinhood-park-long-mile-road-walkinstown-dublin-12/3194084
 "Apartment 15, Morehampton Mews, Donnybrook, Dublin 4",-6.24356,53.327582,345000.0,N/A,D4,2.325261419710322,http://www.daft.ie/for-sale/apartment-apartment-15-morehampton-mews-donnybrook-dublin-4/3263104
 "44 Mountain Park, Tallaght, Dublin 24",-6.356741,53.284642,345000.0,121,D24,8.785740253465535,http://www.daft.ie/for-sale/semi-detached-house-44-mountain-park-tallaght-dublin-24/3458065
-"42 Ely Close, Firhouse, Dublin 24",-6.352283,53.271214,345000.0,85,D24,9.764523811974987,http://www.daft.ie/for-sale/end-of-terrace-house-42-ely-close-firhouse-dublin-24/3483064
 "131 St John's Wood West, Clondalkin, Dublin 22",-6.404704,53.317951,345000.0,140,D22,9.53044813642722,http://www.daft.ie/for-sale/semi-detached-house-131-st-johns-wood-west-clondalkin-dublin-22/3289728
+"42 Ely Close, Firhouse, Dublin 24",-6.352283,53.271214,345000.0,85,D24,9.764523811974987,http://www.daft.ie/for-sale/end-of-terrace-house-42-ely-close-firhouse-dublin-24/3483064
 "31 Galtymore Road, Drimnagh, Dublin 12",-6.323253,53.331098,345000.0,75,D12,3.93373191808341,http://www.daft.ie/for-sale/end-of-terrace-house-31-galtymore-road-drimnagh-dublin-12/3466114
 "18 Pimlico, The Coombe, Dublin 8",-6.280747,53.340506,345000.0,73,D8,0.925203281990781,http://www.daft.ie/for-sale/terraced-house-18-pimlico-the-coombe-dublin-8/3412997
 "20 Ravensdale Road, East Wall",-6.231257,53.354266,345000.0,53,N/A,2.711613667425493,http://www.daft.ie/for-sale/terraced-house-20-ravensdale-road-east-wall/3474742
@@ -992,8 +992,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 81, East Courtyard, Tullyvale, Cabinteely, Dublin 18",-6.143743,53.247298,345000.0,90,D18,13.436780937391699,http://www.daft.ie/for-sale/apartment-apartment-81-east-courtyard-tullyvale-cabinteely-dublin-18/3480730
 "49 McGoverns Corner, Cork Street, Dublin 8",-6.287468,53.337368,345000.0,78,D8,1.4674705043236826,http://www.daft.ie/for-sale/townhouse-49-mcgoverns-corner-cork-street-dublin-8/3419276
 "Apartment 45, Eagle Island, Custom House Harbour Apartments, IFSC, Dublin 1",-6.247384,53.351017,345000.0,60,D1,1.6062263587442804,http://www.daft.ie/for-sale/apartment-apartment-45-eagle-island-custom-house-harbour-apartments-ifsc-dublin-1/3431720
-"35 Wyteleaf Grove, The Donahies, Donaghmede, Dublin 13",-6.173502,53.396805,345000.0,N/A,D13,8.644955695684466,http://www.daft.ie/for-sale/end-of-terrace-house-35-wyteleaf-grove-the-donahies-donaghmede-dublin-13/3415660
 "25 Mimosa Hall, The Gallops, Leopardstown, Dublin 18",-6.197086,53.262813,345000.0,75,D18,10.056527602553482,http://www.daft.ie/for-sale/apartment-25-mimosa-hall-the-gallops-leopardstown-dublin-18/3490612
+"35 Wyteleaf Grove, The Donahies, Donaghmede, Dublin 13",-6.173502,53.396805,345000.0,N/A,D13,8.644955695684466,http://www.daft.ie/for-sale/end-of-terrace-house-35-wyteleaf-grove-the-donahies-donaghmede-dublin-13/3415660
 "18 Kells Road, Crumlin, Dublin 12",-6.303893,53.32359,349000.0,79,D12,3.237613665161427,http://www.daft.ie/for-sale/end-of-terrace-house-18-kells-road-crumlin-dublin-12/3466127
 "52 Bunting Road, Walkinstown, Dublin 12",-6.327096,53.319523,349000.0,N/A,D12,4.740333490156681,http://www.daft.ie/for-sale/semi-detached-house-52-bunting-road-walkinstown-dublin-12/3489204
 "190 St James Road, Walkinstown, Dublin 12",-6.338225,53.311441,349000.0,99,D12,5.861720526768836,http://www.daft.ie/for-sale/terraced-house-190-st-james-road-walkinstown-dublin-12/3459335
@@ -1002,19 +1002,19 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "17 Woodvale Crescent, Clonsilla, Dublin 15",-6.4104379,53.3936299,349000.0,123,D15,11.039990886857757,http://www.daft.ie/for-sale/semi-detached-house-17-woodvale-crescent-clonsilla-dublin-15/3422624
 "Saint Martins, Kylemore Road, Bluebell, Dublin 12",-6.34467,53.328923,349000.0,93,D12,5.360730423836424,http://www.daft.ie/for-sale/bungalow-saint-martins-kylemore-road-bluebell-dublin-12/3199050
 "25 Faughart Road, Crumlin, Dublin 12",-6.305476,53.322826,349000.0,109,D12,3.3726480188087082,http://www.daft.ie/for-sale/semi-detached-house-25-faughart-road-crumlin-dublin-12/3486882
-"126 Cooley Road, Drimnagh",-6.322503,53.329532,349950.0,N/A,N/A,3.9490814368177793,http://www.daft.ie/for-sale/end-of-terrace-house-126-cooley-road-drimnagh/3198110
 "66 Slievenamon Road, Drimnagh",-6.306022,53.333954,349950.0,N/A,N/A,2.750421754929486,http://www.daft.ie/for-sale/terraced-house-66-slievenamon-road-drimnagh/3469664
+"126 Cooley Road, Drimnagh",-6.322503,53.329532,349950.0,N/A,N/A,3.9490814368177793,http://www.daft.ie/for-sale/end-of-terrace-house-126-cooley-road-drimnagh/3198110
 "54 Niall Street, Stoneybatter, Dublin 7",-6.281678,53.350391,349950.0,N/A,D7,1.2617871534674632,http://www.daft.ie/for-sale/detached-house-54-niall-street-stoneybatter-dublin-7/3192136
-"152 Brandon Road, Drimnagh, Dublin 12",-6.326821,53.327519,349950.0,N/A,D12,4.300184786978799,http://www.daft.ie/for-sale/end-of-terrace-house-152-brandon-road-drimnagh-dublin-12/3203058
 "159 Clonmacnoise Road, Crumlin, Dublin 12",-6.302451,53.321618,349950.0,N/A,D12,3.319224540089766,http://www.daft.ie/for-sale/end-of-terrace-house-159-clonmacnoise-road-crumlin-dublin-12/3271407
 "40 Rathdrum Road, Crumlin",-6.290641,53.329497,349950.0,N/A,N/A,2.1453101833421506,http://www.daft.ie/for-sale/end-of-terrace-house-40-rathdrum-road-crumlin/3412065
+"152 Brandon Road, Drimnagh, Dublin 12",-6.326821,53.327519,349950.0,N/A,D12,4.300184786978799,http://www.daft.ie/for-sale/end-of-terrace-house-152-brandon-road-drimnagh-dublin-12/3203058
 "47 West Road, East Wall, Dublin 3",-6.238293,53.356166,349950.0,N/A,D3,2.430756851884027,http://www.daft.ie/for-sale/terraced-house-47-west-road-east-wall-dublin-3/2951947
 "3 Inglewood Close, Clonsilla, Dublin 15",-6.411788,53.38977,349950.0,N/A,D15,10.905958231545457,http://www.daft.ie/for-sale/semi-detached-house-3-inglewood-close-clonsilla-dublin-15/3488510
 "131 Willow Park Road, Glasnevin, Dublin 11",-6.280273,53.39602,349950.0,N/A,D11,5.96809978488408,http://www.daft.ie/for-sale/semi-detached-house-131-willow-park-road-glasnevin-dublin-11/3171634
 "42 Raheen Close, Tallaght, Dublin 24",-6.389572,53.283565,349950.0,111,D24,10.459560959097326,http://www.daft.ie/for-sale/end-of-terrace-house-42-raheen-close-tallaght-dublin-24/3179540
-"Apartment 20, Avoca Hall, Blackrock, Co. Dublin",-6.185708,53.294886,349950.0,50,Co. D,7.612381711492649,http://www.daft.ie/for-sale/apartment-apartment-20-avoca-hall-blackrock-co-dublin/3255572
 "38 Willow Grove, Clondalkin, Dublin 22",-6.39875,53.312568,349950.0,125,D22,9.352261128488776,http://www.daft.ie/for-sale/semi-detached-house-38-willow-grove-clondalkin-dublin-22/1416489
 "55 Kilworth Road, Drimnagh",-6.324759,53.331854,349950.0,N/A,N/A,4.0015033471897885,http://www.daft.ie/for-sale/terraced-house-55-kilworth-road-drimnagh/3433962
+"Apartment 20, Avoca Hall, Blackrock, Co. Dublin",-6.185708,53.294886,349950.0,50,Co. D,7.612381711492649,http://www.daft.ie/for-sale/apartment-apartment-20-avoca-hall-blackrock-co-dublin/3255572
 "3 Brabazon Street, The Liberties, Dublin 8",-6.281558,53.343245,349950.0,N/A,D8,0.9406733410714103,http://www.daft.ie/for-sale/terraced-house-3-brabazon-street-the-liberties-dublin-8/2518297
 "8a Walkinstown Green, Walkinstown, Dublin 12",-6.33553,53.321541,349950.0,N/A,D12,5.109542527391081,http://www.daft.ie/for-sale/end-of-terrace-house-8a-walkinstown-green-walkinstown-dublin-12/3164451
 "17 Clogher Road, Crumlin, Dublin 12",-6.298892,53.325462,349950.0,N/A,D12,2.8517213308131257,http://www.daft.ie/for-sale/terraced-house-17-clogher-road-crumlin-dublin-12/3479030
@@ -1022,8 +1022,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "46 Redwood Avenue, Kilnamanagh, Dublin 24",-6.364212,53.298524,349950.0,N/A,D24,8.105375493335046,http://www.daft.ie/for-sale/semi-detached-house-46-redwood-avenue-kilnamanagh-dublin-24/3422612
 "14 Clancy Avenue, Finglas East, Finglas, Dublin 11",-6.293436,53.392807,349950.0,N/A,D11,5.812044988106468,http://www.daft.ie/for-sale/end-of-terrace-house-14-clancy-avenue-finglas-east-finglas-dublin-11/3493728
 "4 Osprey Court, Dublin Road, Shankill, Dublin 18",-6.124349,53.230628,349950.0,86,D18,15.693147994753636,http://www.daft.ie/for-sale/apartment-4-osprey-court-dublin-road-shankill-dublin-18/3466769
-"11 Beresford House, Custom House Square, IFSC, Dublin 1",-6.244008,53.349347,350000.0,55,D1,1.7102788976433878,http://www.daft.ie/for-sale/apartment-11-beresford-house-custom-house-square-ifsc-dublin-1/3240301
 "18 Mayberry Park, Kilnamanagh, Dublin 24",-6.364598,53.297627,350000.0,84,D24,8.186736115683058,http://www.daft.ie/for-sale/end-of-terrace-house-18-mayberry-park-kilnamanagh-dublin-24/3423778
+"11 Beresford House, Custom House Square, IFSC, Dublin 1",-6.244008,53.349347,350000.0,55,D1,1.7102788976433878,http://www.daft.ie/for-sale/apartment-11-beresford-house-custom-house-square-ifsc-dublin-1/3240301
 "11 Saint Marys Avenue North, Mountjoy Street, Phibsborough, Dublin 7",-6.267556,53.355219,350000.0,82,D7,1.3698494377947226,http://www.daft.ie/for-sale/terraced-house-11-saint-marys-avenue-north-mountjoy-street-phibsborough-dublin-7/3472357
 "58 Newbancroft Hall, Tallaght, Dublin 24",-6.37211,53.298517,350000.0,N/A,D24,8.527986595597518,http://www.daft.ie/for-sale/apartment-58-newbancroft-hall-tallaght-dublin-24/3255217
 "Apartment 10, Longmeadows Apartments, Conyngham Road, Islandbridge, Dublin 8",-6.300042,53.348099,350000.0,76,D8,2.242635173945094,http://www.daft.ie/for-sale/apartment-apartment-10-longmeadows-apartments-conyngham-road-islandbridge-dublin-8/3472859
@@ -1032,18 +1032,18 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "54 Fisherman's Wharf, Ringsend, Dublin 4",-6.227265,53.344017,350000.0,62,D4,2.667265139637356,http://www.daft.ie/for-sale/apartment-54-fishermans-wharf-ringsend-dublin-4/3451713
 65 Innismore,-6.318255,53.322545,350000.0,110,N/A,4.065232594321106,http://www.daft.ie/for-sale/semi-detached-house-65-innismore/3477599
 "9 Saint Aubyns Court, Shanganagh Road, Killiney, Co. Dublin",-6.122691,53.246979,350000.0,64,Co. D,14.361670833261977,http://www.daft.ie/for-sale/apartment-9-saint-aubyns-court-shanganagh-road-killiney-co-dublin/3202815
-"6 Park View, Rathborne, Ashtown, Dublin 15",-6.328107,53.378241,350000.0,102,D15,5.627709232439097,http://www.daft.ie/for-sale/duplex-6-park-view-rathborne-ashtown-dublin-15/3470946
-"11 Swift Hall, Collegewood, Castleknock, Dublin 15",-6.3617198,53.3728068,350000.0,92,D15,7.087879256744278,http://www.daft.ie/for-sale/apartment-11-swift-hall-collegewood-castleknock-dublin-15/2743552
 "Apartment 10, Brookmount Court, Butterfield Avenue, Rathfarnham, Dublin 14",-6.290884,53.297404,350000.0,52,D14,5.293942332739327,http://www.daft.ie/for-sale/apartment-apartment-10-brookmount-court-butterfield-avenue-rathfarnham-dublin-14/3207831
 "50 Spencer House, Custom House Square, Dublin 1",-6.244601,53.34987,350000.0,65,D1,1.7003202909430368,http://www.daft.ie/for-sale/apartment-50-spencer-house-custom-house-square-dublin-1/3151443
+"6 Park View, Rathborne, Ashtown, Dublin 15",-6.328107,53.378241,350000.0,102,D15,5.627709232439097,http://www.daft.ie/for-sale/duplex-6-park-view-rathborne-ashtown-dublin-15/3470946
+"11 Swift Hall, Collegewood, Castleknock, Dublin 15",-6.3617198,53.3728068,350000.0,92,D15,7.087879256744278,http://www.daft.ie/for-sale/apartment-11-swift-hall-collegewood-castleknock-dublin-15/2743552
 "Apartment 35, Block B, Bellevue, Dublin 8",-6.311687230407415,53.34726883561626,350000.0,67,D8,2.979772440104737,http://www.daft.ie/for-sale/apartment-apartment-35-block-b-bellevue-dublin-8/3465175
+"23 Grange Park Green, Raheny, Dublin 5",-6.166378,53.386242,350000.0,95,D5,8.255759311635321,http://www.daft.ie/for-sale/semi-detached-house-23-grange-park-green-raheny-dublin-5/2592321
 "35 Glenayle Road, Raheny, Dublin 5",-6.180944,53.390193,350000.0,95,D5,7.781993388034745,http://www.daft.ie/for-sale/semi-detached-house-35-glenayle-road-raheny-dublin-5/3145242
 "27 Maolbuille Road, Glasnevin, Dublin 11",-6.268127,53.387816,350000.0,85,D11,4.9946642626213595,http://www.daft.ie/for-sale/terraced-house-27-maolbuille-road-glasnevin-dublin-11/2852875
-"23 Grange Park Green, Raheny, Dublin 5",-6.166378,53.386242,350000.0,95,D5,8.255759311635321,http://www.daft.ie/for-sale/semi-detached-house-23-grange-park-green-raheny-dublin-5/2592321
 "Apartment 54, West Courtyard, Tullyvale, Cabinteely, Dublin 18",-6.146851,53.248389,350000.0,90,D18,13.21470621940375,http://www.daft.ie/for-sale/apartment-apartment-54-west-courtyard-tullyvale-cabinteely-dublin-18/3270300
+"109 Inchicore Road, Kilmainham, Dublin 8",-6.316279,53.341802,350000.0,72,D8,3.2472245812764364,http://www.daft.ie/for-sale/terraced-house-109-inchicore-road-kilmainham-dublin-8/3433514
 "65 Glenmaroon Road, Palmerstown, Dublin 20",-6.369241,53.350336,350000.0,92,D2,6.810616028097483,http://www.daft.ie/for-sale/terraced-house-65-glenmaroon-road-palmerstown-dublin-20/3453157
 "Apartment 12 Morehampton Mews, 2 Morehampton Road, Donnybrook, Dublin 4",-6.243379,53.327645,350000.0,36,D4,2.328350034452441,http://www.daft.ie/for-sale/apartment-apartment-12-morehampton-mews-2-morehampton-road-donnybrook-dublin-4/2611643
-"109 Inchicore Road, Kilmainham, Dublin 8",-6.316279,53.341802,350000.0,72,D8,3.2472245812764364,http://www.daft.ie/for-sale/terraced-house-109-inchicore-road-kilmainham-dublin-8/3433514
 "Apartment 14, 2 Waterloo Road, Dublin 4",-6.24338,53.331799,350000.0,52,D4,2.01669894584527,http://www.daft.ie/for-sale/apartment-apartment-14-2-waterloo-road-dublin-4/3486054
 "10 Farnham Crescent, Finglas, Dublin 11",-6.301137,53.385592,350000.0,115,D11,5.248463600345156,http://www.daft.ie/for-sale/semi-detached-house-10-farnham-crescent-finglas-dublin-11/1500619
 "20 Myrtle Street, Phibsborough, Dublin 7",-6.270706,53.356445,350000.0,60,D7,1.5220369105055878,http://www.daft.ie/for-sale/end-of-terrace-house-20-myrtle-street-phibsborough-dublin-7/3490254
@@ -1199,10 +1199,10 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "13 Mayeston Drive, St. Margaret's, Finglas, Dublin 11",-6.289152,53.40664,375000.0,N/A,D11,7.232957837960297,http://www.daft.ie/for-sale/semi-detached-house-13-mayeston-drive-st-margarets-finglas-dublin-11/3496306
 "27 Ring Street, Inchicore, Dublin 8",-6.329131,53.336719,375000.0,72,D8,4.1556079815565345,http://www.daft.ie/for-sale/terraced-house-27-ring-street-inchicore-dublin-8/3479383
 "2 Ardee Court, Ardee Road, Rathmines, Dublin 6",-6.266469,53.326156,375000.0,72,D6,1.862873811916973,http://www.daft.ie/for-sale/apartment-2-ardee-court-ardee-road-rathmines-dublin-6/3492661
-"7 Summerfield Close, Blanchardstown, Dublin 15",-6.386228,53.387342,375000.0,109,D15,9.305087292433189,http://www.daft.ie/for-sale/semi-detached-house-7-summerfield-close-blanchardstown-dublin-15/3246185
+"2 Ardee Court, Ardee Road, Rathmines, Dublin 6",-6.266469,53.326156,375000.0,72,D6,1.862873811916973,http://www.daft.ie/for-sale/apartment-2-ardee-court-ardee-road-rathmines-dublin-6/3492661
 "6 Maple Court, 40-42 Terenure Road East, Rathgar, Dublin 6",-6.276923,53.311833,375000.0,63,D6,3.5119057527976327,http://www.daft.ie/for-sale/apartment-6-maple-court-40-42-terenure-road-east-rathgar-dublin-6/3202779
-"21 Granitefield Mews, Granitefield Manor, Dun Laoghaire, Co. Dublin",-6.143344,53.269616,375000.0,73,Co. D,11.590713375634431,http://www.daft.ie/for-sale/apartment-21-granitefield-mews-granitefield-manor-dun-laoghaire-co-dublin/3422410
 "9 Ferncourt Green, Oldcourt Road, Firhouse, Dublin 24",-6.346149,53.272213,375000.0,105,D24,9.442232971931144,http://www.daft.ie/for-sale/semi-detached-house-9-ferncourt-green-oldcourt-road-firhouse-dublin-24/3473033
+"21 Granitefield Mews, Granitefield Manor, Dun Laoghaire, Co. Dublin",-6.143344,53.269616,375000.0,73,Co. D,11.590713375634431,http://www.daft.ie/for-sale/apartment-21-granitefield-mews-granitefield-manor-dun-laoghaire-co-dublin/3422410
 "6 Francis Terrace, Smithfield, Dublin 7",-6.276259,53.348988,375000.0,72,D7,0.89671458518412,http://www.daft.ie/for-sale/terraced-house-6-francis-terrace-smithfield-dublin-7/3233940
 "129 Tonlegee Road, Raheny, Dublin 5",-6.186488,53.390796,375000.0,120,D5,7.562006227036652,http://www.daft.ie/for-sale/semi-detached-house-129-tonlegee-road-raheny-dublin-5/3464085
 "17 Linenhall Terrace, Dublin 7",-6.272562,53.351267,375000.0,77,D7,0.9914608248412068,http://www.daft.ie/for-sale/terraced-house-17-linenhall-terrace-dublin-7/3494460
@@ -1244,9 +1244,9 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "129 Kilmore Road, Artane, Dublin 5",-6.214768,53.389357,385000.0,N/A,D5,6.235405312923729,http://www.daft.ie/for-sale/semi-detached-house-129-kilmore-road-artane-dublin-5/3281178
 "1 Spencer Street North, North Strand, Dublin 3",-6.238234,53.358579,385000.0,66,D3,2.6052045270000015,http://www.daft.ie/for-sale/terraced-house-1-spencer-street-north-north-strand-dublin-3/3431729
 "45 Tuscany Downs, Raheny, Dublin 5",-6.1701051,53.3835699,385000.0,73,D5,7.882280235077959,http://www.daft.ie/for-sale/terraced-house-45-tuscany-downs-raheny-dublin-5/3481527
+"160 Oxmantown Road, Stoneybatter, Dublin 7",-6.288609,53.351837,385000.0,70,D7,1.7232347383826854,http://www.daft.ie/for-sale/terraced-house-160-oxmantown-road-stoneybatter-dublin-7/3466415
 "83 St Peters Road, Walkinstown, Dublin 12",-6.329812,53.314393,385000.0,97,D12,5.21787053778132,http://www.daft.ie/for-sale/end-of-terrace-house-83-st-peters-road-walkinstown-dublin-12/3451091
 "61 Ashlawn Park, Ballybrack, Glenageary, Co. Dublin",-6.133144,53.253389,385000.0,114,Co. D,13.36671490782526,http://www.daft.ie/for-sale/end-of-terrace-house-61-ashlawn-park-ballybrack-glenageary-co-dublin/3240302
-"160 Oxmantown Road, Stoneybatter, Dublin 7",-6.288609,53.351837,385000.0,70,D7,1.7232347383826854,http://www.daft.ie/for-sale/terraced-house-160-oxmantown-road-stoneybatter-dublin-7/3466415
 "18 Foster Terrace, Ballybough, Drumcondra, Dublin 3",-6.247504,53.360073,385000.0,N/A,D3,2.3216892094545414,http://www.daft.ie/for-sale/townhouse-18-foster-terrace-ballybough-drumcondra-dublin-3/3470109
 "69 Mountain View Park, Churchtown, Dublin 14",-6.261058,53.290986,385000.0,87,D14,5.787925200192022,http://www.daft.ie/for-sale/terraced-house-69-mountain-view-park-churchtown-dublin-14/3234816
 "Apartment 19, Block 11, Grand Canal Dock, Dublin 2",-6.240182,53.342833,385000.0,78,D2,1.8069139772336889,http://www.daft.ie/for-sale/apartment-apartment-19-block-11-grand-canal-dock-dublin-2/3432043
@@ -1272,10 +1272,10 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 40, Trinity Plaza, Dublin 2",-6.254845,53.345728,390000.0,60,D2,0.8907993749520156,http://www.daft.ie/for-sale/apartment-apartment-40-trinity-plaza-dublin-2/3213696
 "52 Shanard Road, Santry, Dublin 9",-6.256581,53.39041,390000.0,102,D9,5.331416980160185,http://www.daft.ie/for-sale/semi-detached-house-52-shanard-road-santry-dublin-9/3439466
 "202 Phibsborough Road, Phibsborough, Dublin 7",-6.273151,53.358216,394950.0,80,D7,1.745315747362406,http://www.daft.ie/for-sale/terraced-house-202-phibsborough-road-phibsborough-dublin-7/3471100
-"Apartment 76, Wyckham Place, Dundrum, Dublin 14",-6.242724,53.282641,395000.0,75,D14,6.898111372989296,http://www.daft.ie/for-sale/apartment-apartment-76-wyckham-place-dundrum-dublin-14/3479362
 "111 Mulvey Park, Dundrum, Dublin 14",-6.239408,53.302559,395000.0,79,D14,4.855729200304333,http://www.daft.ie/for-sale/terraced-house-111-mulvey-park-dundrum-dublin-14/3260163
 "Saint Ita's, 8 Canal Terrace",-6.340486,53.332432,395000.0,N/A,N/A,4.990143808156345,http://www.daft.ie/for-sale/bungalow-saint-itas-8-canal-terrace/3262899
 "27 Parkside Walk, Clongriffin, Dublin 13",-6.165724,53.406402,395000.0,112,D13,9.764838082933428,http://www.daft.ie/for-sale/semi-detached-house-27-parkside-walk-clongriffin-dublin-13/3273921
+"Apartment 76, Wyckham Place, Dundrum, Dublin 14",-6.242724,53.282641,395000.0,75,D14,6.898111372989296,http://www.daft.ie/for-sale/apartment-apartment-76-wyckham-place-dundrum-dublin-14/3479362
 "183 The Avenue, Belgard Heights, Tallaght, Dublin 24",-6.379594,53.301104,395000.0,130,D24,8.78226532477763,http://www.daft.ie/for-sale/semi-detached-house-183-the-avenue-belgard-heights-tallaght-dublin-24/3462769
 "15 Ashurst, Mount Merrion Avenue, Blackrock, Co. Dublin",-6.202977,53.297677,395000.0,N/A,Co. D,6.602790768139843,http://www.daft.ie/for-sale/apartment-15-ashurst-mount-merrion-avenue-blackrock-co-dublin/3434561
 "52 Cedarwood Grove, Glasnevin, Dublin 11",-6.281562,53.394503,395000.0,N/A,D11,5.814411493845768,http://www.daft.ie/for-sale/semi-detached-house-52-cedarwood-grove-glasnevin-dublin-11/3267109
@@ -1290,8 +1290,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "32 Thomas Court, Thomas Street, The Liberties, Dublin 8",-6.281649,53.342752,395000.0,54,D8,0.94608049935627,http://www.daft.ie/for-sale/terraced-house-32-thomas-court-thomas-street-the-liberties-dublin-8/3481856
 "2 The Steeples Chapelizod Dublin 20, Chapelizod, Dublin 20",-6.339704,53.342638,395000.0,90,D2,4.800084428697178,http://www.daft.ie/for-sale/semi-detached-house-2-the-steeples-chapelizod-dublin-20-chapelizod-dublin-20/3410293
 "5 Riversdale View, Ballyboden Road, Rathfarnham, Dublin 14",-6.290627,53.29182,395000.0,56,D14,5.885660945149242,http://www.daft.ie/for-sale/bungalow-5-riversdale-view-ballyboden-road-rathfarnham-dublin-14/3189494
-"122 Oakcourt Drive, Palmerstown, Dublin 20",-6.370456,53.349214,395000.0,56,D2,6.8769129053340325,http://www.daft.ie/for-sale/bungalow-122-oakcourt-drive-palmerstown-dublin-20/1409070
 "3 Nephin Road, Navan Road, Navan Road (D7), Dublin 7",-6.311678,53.362975,395000.0,95,D7,3.6904134464536287,http://www.daft.ie/for-sale/semi-detached-house-3-nephin-road-navan-road-navan-road-d7-dublin-7/3281123
+"122 Oakcourt Drive, Palmerstown, Dublin 20",-6.370456,53.349214,395000.0,56,D2,6.8769129053340325,http://www.daft.ie/for-sale/bungalow-122-oakcourt-drive-palmerstown-dublin-20/1409070
 "1A Foxhill Lawn, Baldoyle, Clarehall, Dublin 13",-6.174742,53.394798,395000.0,N/A,D13,8.431685162168337,http://www.daft.ie/for-sale/detached-house-1a-foxhill-lawn-baldoyle-clarehall-dublin-13/3154911
 "10 Larkhill Road, Whitehall, Dublin 9",-6.24546,53.384199,395000.0,N/A,D9,4.817471502239723,http://www.daft.ie/for-sale/terraced-house-10-larkhill-road-whitehall-dublin-9/2561051
 "5 Coolrua Drive, Beaumont, Dublin 9",-6.235108,53.388893,395000.0,N/A,D9,5.544870260093353,http://www.daft.ie/for-sale/semi-detached-house-5-coolrua-drive-beaumont-dublin-9/3249470
@@ -1300,26 +1300,26 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "15 Manorfields Drive, Clonee, Dublin 15",-6.425358,53.398487,395000.0,118,D15,12.166429157158202,http://www.daft.ie/for-sale/semi-detached-house-15-manorfields-drive-clonee-dublin-15/3468483
 "27 Shelbourne Park Apt's, Ringsend, Dublin 4",-6.231869,53.340312,395000.0,61,D4,2.376325464597637,http://www.daft.ie/for-sale/apartment-27-shelbourne-park-apts-ringsend-dublin-4/3480436
 "Apartment 78, The Atrium, Roebuck Hill, Clonskeagh, Dublin 14",-6.220439,53.298988,395000.0,N/A,D14,5.794034008557517,http://www.daft.ie/for-sale/apartment-apartment-78-the-atrium-roebuck-hill-clonskeagh-dublin-14/3467615
-"107 Shelmartin Avenue, Marino, Dublin 3",-6.237622,53.365147,395000.0,N/A,D3,3.166281121259685,http://www.daft.ie/for-sale/terraced-house-107-shelmartin-avenue-marino-dublin-3/3470235
 "540 Collins Avenue West, Whitehall, Dublin 9",-6.248938,53.384322,395000.0,N/A,D9,4.766041376667344,http://www.daft.ie/for-sale/end-of-terrace-house-540-collins-avenue-west-whitehall-dublin-9/3191052
+"107 Shelmartin Avenue, Marino, Dublin 3",-6.237622,53.365147,395000.0,N/A,D3,3.166281121259685,http://www.daft.ie/for-sale/terraced-house-107-shelmartin-avenue-marino-dublin-3/3470235
 "137A Grange Abbey Drive, Baldoyle, Dublin 13",-6.152212,53.398804,395000.0,N/A,D13,9.850877460725227,http://www.daft.ie/for-sale/semi-detached-house-137a-grange-abbey-drive-baldoyle-dublin-13/3470105
 "15 Earl Street South, Dublin 8",-6.2809,53.341564,395000.0,80,D8,0.908455311130336,http://www.daft.ie/for-sale/terraced-house-15-earl-street-south-dublin-8/3491915
 "15 Upper Cross Road, Rialto, Dublin 8",-6.300425,53.33579,395000.0,110,D8,2.330765331943222,http://www.daft.ie/for-sale/terraced-house-15-upper-cross-road-rialto-dublin-8/3431765
 "10 Leinster Avenue, North Strand",-6.239116,53.359376,395000.0,100,N/A,2.6231014362666274,http://www.daft.ie/for-sale/terraced-house-10-leinster-avenue-north-strand/3454219
-"2 Foxhill Lawn, Donaghmede, Dublin 13",-6.156962,53.392835,395000.0,N/A,D13,9.193427537166217,http://www.daft.ie/for-sale/semi-detached-house-2-foxhill-lawn-donaghmede-dublin-13/3277576
 "31 Charleville Avenue, North Strand, Dublin 3",-6.245391,53.358859,395000.0,86,D3,2.298489336583471,http://www.daft.ie/for-sale/terraced-house-31-charleville-avenue-north-strand-dublin-3/3448259
+"2 Foxhill Lawn, Donaghmede, Dublin 13",-6.156962,53.392835,395000.0,N/A,D13,9.193427537166217,http://www.daft.ie/for-sale/semi-detached-house-2-foxhill-lawn-donaghmede-dublin-13/3277576
 "30 Granitefield Mews, Granitefield Manor, Dun Laoghaire, Co. Dublin",-6.143672,53.269366,395000.0,86,Co. D,11.594829120139265,http://www.daft.ie/for-sale/apartment-30-granitefield-mews-granitefield-manor-dun-laoghaire-co-dublin/3197518
 "10 Firhouse, Mespil Estate, Ballsbridge, Dublin 4",-6.249930806583336,53.3303110691721,395000.0,53,D4,1.8179216969747656,http://www.daft.ie/for-sale/apartment-10-firhouse-mespil-estate-ballsbridge-dublin-4/3494594
 "10 Connaught Parade, Dublin 7, Co. Dublin",-6.280636,53.363326,395000.0,65,D7,2.4352364580764885,http://www.daft.ie/for-sale/terraced-house-10-connaught-parade-dublin-7-co-dublin/3269168
-"71 Ayrfield Road, Ayrfield, Dublin 13",-6.187512,53.394011,395000.0,104,D13,7.771268431772444,http://www.daft.ie/for-sale/semi-detached-house-71-ayrfield-road-ayrfield-dublin-13/3483638
 "12 Ferndale Road, Glasnevin, Dublin 11",-6.282092,53.387598,395000.0,102,D11,5.064888637150919,http://www.daft.ie/for-sale/semi-detached-house-12-ferndale-road-glasnevin-dublin-11/3475371
+"71 Ayrfield Road, Ayrfield, Dublin 13",-6.187512,53.394011,395000.0,104,D13,7.771268431772444,http://www.daft.ie/for-sale/semi-detached-house-71-ayrfield-road-ayrfield-dublin-13/3483638
 "4 Tower Villas, Kilmainham Lane, Kilmainham, Dublin 8",-6.307041,53.341733,395000.0,110,D8,2.6348452125881527,http://www.daft.ie/for-sale/terraced-house-4-tower-villas-kilmainham-lane-kilmainham-dublin-8/3471519
 "15 Charleston Court, Charleston Road, Ranelagh, Dublin 6",-6.259353,53.324266,395000.0,59,D6,2.1397929718186317,http://www.daft.ie/for-sale/apartment-15-charleston-court-charleston-road-ranelagh-dublin-6/3271504
 "Apartment 32, The Moorings, Portobello, Dublin 8",-6.266769,53.330424,395000.0,56,D8,1.3879003908101135,http://www.daft.ie/for-sale/apartment-apartment-32-the-moorings-portobello-dublin-8/3460372
 "Apartment 52, Corn Mill, Drumcondra, Dublin 3",-6.249442,53.363268,395000.0,82,D3,2.5592914249531873,http://www.daft.ie/for-sale/apartment-apartment-52-corn-mill-drumcondra-dublin-3/3483260
 "Apt, 32 West Courtyard, Tullyvale, Cabinteely, Dublin 18",-6.147298,53.248056,395000.0,88,D18,13.22624144889895,http://www.daft.ie/for-sale/apartment-apt-32-west-courtyard-tullyvale-cabinteely-dublin-18/3492049
-"40 Brookfield, Artane, Dublin 5",-6.190352,53.385049,395000.0,88,D5,6.935573645107312,http://www.daft.ie/for-sale/semi-detached-house-40-brookfield-artane-dublin-5/3260862
 "Apartment 39, Wyckham Point, Dundrum, Dublin 14",-6.242178,53.280759,395000.0,68,D14,7.110028546168715,http://www.daft.ie/for-sale/apartment-apartment-39-wyckham-point-dundrum-dublin-14/2499506
+"40 Brookfield, Artane, Dublin 5",-6.190352,53.385049,395000.0,88,D5,6.935573645107312,http://www.daft.ie/for-sale/semi-detached-house-40-brookfield-artane-dublin-5/3260862
 "29 Fairfield Avenue, East Wall, Dublin 3",-6.237162,53.355423,395000.0,103,D3,2.442835185583407,http://www.daft.ie/for-sale/end-of-terrace-house-29-fairfield-avenue-east-wall-dublin-3/3471764
 "9 St Patricks Villas, Ringsend, Dublin 4",-6.225959,53.342014,395000.0,61,D4,2.7528988530233005,http://www.daft.ie/for-sale/terraced-house-9-st-patricks-villas-ringsend-dublin-4/2954470
 "24 Beach View, Del Val Avenue, Sutton, Dublin 13",-6.140554,53.385927,395000.0,62,D13,9.681365335192053,http://www.daft.ie/for-sale/end-of-terrace-house-24-beach-view-del-val-avenue-sutton-dublin-13/3442500
@@ -1328,16 +1328,16 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "10 Oakdale Close, Ballycullen, Dublin 24",-6.338299,53.272351,395000.0,102,D24,9.150351041188264,http://www.daft.ie/for-sale/semi-detached-house-10-oakdale-close-ballycullen-dublin-24/3431963
 "36 O'Curry Road, The Tenters, Dublin 8",-6.275248,53.337254,395000.0,80,D8,0.8158530182578391,http://www.daft.ie/for-sale/end-of-terrace-house-36-ocurry-road-the-tenters-dublin-8/3171604
 "7 Kimmage Grove, Kimmage, Dublin 6W",-6.291631,53.316631,395000.0,98,D6,3.334863619846556,http://www.daft.ie/for-sale/terraced-house-7-kimmage-grove-kimmage-dublin-6w/3222202
-"25 Rutland Street Lower, Dublin 1",-6.251677,53.354379,395000.0,141,D1,1.6487618243223112,http://www.daft.ie/for-sale/end-of-terrace-house-25-rutland-street-lower-dublin-1/3427589
-"Apartment 89, The Atrium, Roebuck Hill, Roebuck Road, Clonskeagh, Dublin 14",-6.220439,53.298988,395000.0,81,D14,5.794034008557517,http://www.daft.ie/for-sale/apartment-apartment-89-the-atrium-roebuck-hill-roebuck-road-clonskeagh-dublin-14/3466462
 "50 Viking Road, Arbour Hill, Stoneybatter, Dublin 7",-6.285087,53.350833,395000.0,70,D7,1.4685156926306118,http://www.daft.ie/for-sale/terraced-house-50-viking-road-arbour-hill-stoneybatter-dublin-7/3451015
+"Apartment 89, The Atrium, Roebuck Hill, Roebuck Road, Clonskeagh, Dublin 14",-6.220439,53.298988,395000.0,81,D14,5.794034008557517,http://www.daft.ie/for-sale/apartment-apartment-89-the-atrium-roebuck-hill-roebuck-road-clonskeagh-dublin-14/3466462
+"25 Rutland Street Lower, Dublin 1",-6.251677,53.354379,395000.0,141,D1,1.6487618243223112,http://www.daft.ie/for-sale/end-of-terrace-house-25-rutland-street-lower-dublin-1/3427589
 "19 Hamilton Street, South Circular Road, Dublin 8",-6.282937,53.334739,395000.0,N/A,D8,1.373885408138269,http://www.daft.ie/for-sale/duplex-19-hamilton-street-south-circular-road-dublin-8/3164860
 "59 Castle Park, Clondalkin, Dublin 22",-6.388491,53.323602,395000.0,100,D22,8.321990790467817,http://www.daft.ie/for-sale/semi-detached-house-59-castle-park-clondalkin-dublin-22/3465121
 "483 North Circular Road, North Circular Road, Dublin 7",-6.262062,53.360028,395000.0,95,D7,1.9372209828184286,http://www.daft.ie/for-sale/end-of-terrace-house-483-north-circular-road-north-circular-road-dublin-7/1524049
 "29A Kilmore Road, Artane, Dublin 5",-6.215535,53.386983,395000.0,98,D5,5.989197646910492,http://www.daft.ie/for-sale/semi-detached-house-29a-kilmore-road-artane-dublin-5/3247860
-"46 Shanowen Park, Santry, Dublin 9",-6.261185,53.389195,395000.0,90,D9,5.164259133620465,http://www.daft.ie/for-sale/semi-detached-house-46-shanowen-park-santry-dublin-9/3492048
 "181 Phibsborough Road, Phibsborough, Dublin 7",-6.272726,53.359596,395000.0,N/A,D7,1.8898665912388526,http://www.daft.ie/for-sale/end-of-terrace-house-181-phibsborough-road-phibsborough-dublin-7/3467786
 "409 Carnlough Road, Cabra, Dublin 7",-6.29721,53.369716,395000.0,N/A,D7,3.578408735920526,http://www.daft.ie/for-sale/semi-detached-house-409-carnlough-road-cabra-dublin-7/3471080
+"46 Shanowen Park, Santry, Dublin 9",-6.261185,53.389195,395000.0,90,D9,5.164259133620465,http://www.daft.ie/for-sale/semi-detached-house-46-shanowen-park-santry-dublin-9/3492048
 "25 Killakee Grove, Firhouse, Dublin 24",-6.342567,53.280388,399000.0,100,D24,8.558836485347147,http://www.daft.ie/for-sale/semi-detached-house-25-killakee-grove-firhouse-dublin-24/3234943
 "75 Hunters Walk, Ballycullen, Dublin 24",-6.32922,53.271514,399000.0,101,D24,8.937503412217954,http://www.daft.ie/for-sale/detached-house-75-hunters-walk-ballycullen-dublin-24/3493874
 "Apartment 108, Kilmainham Bank, Dublin 8",-6.315264,53.341237,399000.0,102,D8,3.1829428309237002,http://www.daft.ie/for-sale/apartment-apartment-108-kilmainham-bank-dublin-8/3184899
@@ -1420,10 +1420,10 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 117, Gleann Na Ré­, Druid Valley, Cherrywood, Co. Dublin",-6.142534,53.245526,424950.0,122,Co. D,13.642034395627647,http://www.daft.ie/for-sale/duplex-apartment-117-gleann-na-r-druid-valley-cherrywood-co-dublin/3462266
 "27 Grove Road, Finglas, Glasnevin, Dublin 11",-6.287122,53.392495,424950.0,N/A,D11,5.667824833903051,http://www.daft.ie/for-sale/semi-detached-house-27-grove-road-finglas-glasnevin-dublin-11/3472451
 "45 Lorcan Crescent, Beaumont, Dublin 9",-6.236373,53.392712,424950.0,N/A,D9,5.90901252582684,http://www.daft.ie/for-sale/semi-detached-house-45-lorcan-crescent-beaumont-dublin-9/3227294
-"8 Saint Peter's Road, Walkinstown, Dublin 12",-6.332459,53.315945,425000.0,108,D12,5.258253997298796,http://www.daft.ie/for-sale/end-of-terrace-house-8-saint-peters-road-walkinstown-dublin-12/3415449
-"1 Gledswood Mews Bird Avenue Clonskeagh Dublin 14, Clonskeagh, Dublin 14",-6.244911,53.302145,425000.0,97,D14,4.7715618578831815,http://www.daft.ie/for-sale/terraced-house-1-gledswood-mews-bird-avenue-clonskeagh-dublin-14-clonskeagh-dublin-14/3453720
 "24 Temple Woods, Tallaght, Dublin 24",-6.34971,53.303159,425000.0,141,D24,7.029458594119785,http://www.daft.ie/for-sale/terraced-house-24-temple-woods-tallaght-dublin-24/3268594
 "19 Belarmine Vale, Belarmine, Stepaside, Dublin 18",-6.219333,53.259039,425000.0,120,D18,9.856798185581301,http://www.daft.ie/for-sale/duplex-19-belarmine-vale-belarmine-stepaside-dublin-18/3478428
+"8 Saint Peter's Road, Walkinstown, Dublin 12",-6.332459,53.315945,425000.0,108,D12,5.258253997298796,http://www.daft.ie/for-sale/end-of-terrace-house-8-saint-peters-road-walkinstown-dublin-12/3415449
+"1 Gledswood Mews Bird Avenue Clonskeagh Dublin 14, Clonskeagh, Dublin 14",-6.244911,53.302145,425000.0,97,D14,4.7715618578831815,http://www.daft.ie/for-sale/terraced-house-1-gledswood-mews-bird-avenue-clonskeagh-dublin-14-clonskeagh-dublin-14/3453720
 "34 Gordon Street, Ringsend, Dublin 4",-6.233632,53.339676,425000.0,66,D4,2.2702936507625173,http://www.daft.ie/for-sale/end-of-terrace-house-34-gordon-street-ringsend-dublin-4/3159409
 "Apartment 106, Fisherman's Wharf, Ringsend, Dublin 4",-6.22785,53.343839,425000.0,76,D4,2.6276171045527232,http://www.daft.ie/for-sale/apartment-apartment-106-fishermans-wharf-ringsend-dublin-4/3468595
 "62 Ballintyre Grove, Ballinteer, Dublin 16",-6.257028,53.273129,425000.0,95,D16,7.788726590238401,http://www.daft.ie/for-sale/apartment-62-ballintyre-grove-ballinteer-dublin-16/2740017
@@ -1446,9 +1446,9 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "14 Herberton Drive, Crumlin, Dublin 12",-6.296654,53.332341,425000.0,84,D12,2.2695938211223123,http://www.daft.ie/for-sale/end-of-terrace-house-14-herberton-drive-crumlin-dublin-12/3265062
 "86 Pembroke Cottages, Donnybrook, Dublin 4",-6.235484,53.322955,425000.0,61,D4,3.067553640582192,http://www.daft.ie/for-sale/terraced-house-86-pembroke-cottages-donnybrook-dublin-4/3453495
 "5 Limekiln Drive, Manor Estate",-6.322433,53.305804,425000.0,65,N/A,5.511245828390859,http://www.daft.ie/for-sale/bungalow-5-limekiln-drive-manor-estate/3484694
+"4 Airpark Close, Rathfarnham, Dublin 14",-6.304142,53.274773,425000.0,92,D14,7.958977964701686,http://www.daft.ie/for-sale/terraced-house-4-airpark-close-rathfarnham-dublin-14/2945320
 "7 Aideen Drive, Terenure, Dublin 6",-6.294069,53.315285,425000.0,69,D6,3.5447716148176314,http://www.daft.ie/for-sale/terraced-house-7-aideen-drive-terenure-dublin-6/1413450
 "28 West Road, East Wall, Dublin 3",-6.237603,53.357054,425000.0,75,D3,2.527572260764578,http://www.daft.ie/for-sale/terraced-house-28-west-road-east-wall-dublin-3/3183147
-"4 Airpark Close, Rathfarnham, Dublin 14",-6.304142,53.274773,425000.0,92,D14,7.958977964701686,http://www.daft.ie/for-sale/terraced-house-4-airpark-close-rathfarnham-dublin-14/2945320
 "5 Beechdale Way, Ballycullen, Dublin 24",-6.337108,53.269713,425000.0,N/A,D24,9.363719558868834,http://www.daft.ie/for-sale/semi-detached-house-5-beechdale-way-ballycullen-dublin-24/3472702
 "13 Coolatree Close, Beaumont, Dublin 9",-6.228028,53.385159,425000.0,94,D9,5.376375292057911,http://www.daft.ie/for-sale/semi-detached-house-13-coolatree-close-beaumont-dublin-9/3461110
 "9 Salem Court, Maxwell Road, Rathmines, Dublin 6",-6.266374,53.318062,425000.0,N/A,D6,2.762699830070562,http://www.daft.ie/for-sale/semi-detached-house-9-salem-court-maxwell-road-rathmines-dublin-6/3266035
@@ -1530,9 +1530,9 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "Apartment 3, Eastmoreland Court, Ballsbridge, Dublin 4",-6.242182,53.334268,450000.0,55,D4,1.9299078367841815,http://www.daft.ie/for-sale/apartment-apartment-3-eastmoreland-court-ballsbridge-dublin-4/3279343
 "1 Camden Buildings, Camden Street Lower, Dublin 2",-6.26473,53.335074,450000.0,74,D2,0.8880831619280972,http://www.daft.ie/for-sale/townhouse-1-camden-buildings-camden-street-lower-dublin-2/3208314
 "4 All Hallows Green, Drumcondra, Dublin 3",-6.250061,53.37286,450000.0,110,D3,3.5245218533343774,http://www.daft.ie/for-sale/duplex-4-all-hallows-green-drumcondra-dublin-3/3473614
-"194 Bangor Road, Crumlin, Dublin 12",-6.295715,53.318335,450000.0,N/A,D12,3.3160976597518057,http://www.daft.ie/for-sale/end-of-terrace-house-194-bangor-road-crumlin-dublin-12/3271856
 "219 Tyreconnell Road, Inchicore, Dublin 8",-6.327064,53.335159,450000.0,N/A,D8,4.053661892637494,http://www.daft.ie/for-sale/semi-detached-house-219-tyreconnell-road-inchicore-dublin-8/3223180
 "346 Kidare Road, Crumlin, Dublin 12",-6.3135,53.325206,450000.0,N/A,D12,3.638807805200747,http://www.daft.ie/for-sale/bungalow-346-kidare-road-crumlin-dublin-12/3188752
+"194 Bangor Road, Crumlin, Dublin 12",-6.295715,53.318335,450000.0,N/A,D12,3.3160976597518057,http://www.daft.ie/for-sale/end-of-terrace-house-194-bangor-road-crumlin-dublin-12/3271856
 "26 Ravensdale Park, Kimmage, Dublin 12",-6.299654,53.314233,450000.0,70,D12,3.8404228835094663,http://www.daft.ie/for-sale/semi-detached-house-26-ravensdale-park-kimmage-dublin-12/3205971
 "7 Vernon Wood, Clontarf, Dublin 3",-6.196697,53.360515,450000.0,66,D3,5.085095005560069,http://www.daft.ie/for-sale/semi-detached-house-7-vernon-wood-clontarf-dublin-3/3474450
 "30 Warren Street, South Circular Road, Portobello, Dublin 8",-6.26761,53.330441,450000.0,75,D8,1.385447754489564,http://www.daft.ie/for-sale/terraced-house-30-warren-street-south-circular-road-portobello-dublin-8/3217188
@@ -1540,13 +1540,13 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "7B Allenton Drive, Tallaght, Dublin 24",-6.356587,53.270818,450000.0,133,D24,9.96782447983781,http://www.daft.ie/for-sale/semi-detached-house-7b-allenton-drive-tallaght-dublin-24/3285031
 "9 Reuben Street, Rialto, Dublin 8",-6.291503,53.335125,450000.0,78,D8,1.8188544454584594,http://www.daft.ie/for-sale/terraced-house-9-reuben-street-rialto-dublin-8/3169025
 "1 Herbert Road, Blanchardstown, Dublin 15",-6.374214,53.387575,450000.0,103,D15,8.654853105040624,http://www.daft.ie/for-sale/detached-house-1-herbert-road-blanchardstown-dublin-15/2621521
-"62A Sitric Road Stoneybatter Dublin 7, Stoneybatter, Dublin 7",-6.284502,53.350494,450000.0,81,D7,1.4148470317590132,http://www.daft.ie/for-sale/terraced-house-62a-sitric-road-stoneybatter-dublin-7-stoneybatter-dublin-7/3442277
 "8 Luttrellstown Way, Castleknock, Dublin 15",-6.395967,53.372997,450000.0,86,D15,9.164923271502373,http://www.daft.ie/for-sale/semi-detached-house-8-luttrellstown-way-castleknock-dublin-15/3475365
+"62A Sitric Road Stoneybatter Dublin 7, Stoneybatter, Dublin 7",-6.284502,53.350494,450000.0,81,D7,1.4148470317590132,http://www.daft.ie/for-sale/terraced-house-62a-sitric-road-stoneybatter-dublin-7-stoneybatter-dublin-7/3442277
 "1 Harty Place, Dublin 8",-6.273186,53.334964,450000.0,50,D8,0.9624310495834736,http://www.daft.ie/for-sale/end-of-terrace-house-1-harty-place-dublin-8/3230734
 "6 Dundela Haven, Sandycove, Co. Dublin",-6.117151,53.283152,450000.0,67,Co. D,11.99030178820788,http://www.daft.ie/for-sale/terraced-house-6-dundela-haven-sandycove-co-dublin/3481427
+"21 St. Anne's Park, Shankill, Dublin 18",-6.124085,53.234103,450000.0,72,D18,15.398153608743042,http://www.daft.ie/for-sale/semi-detached-house-21-st-annes-park-shankill-dublin-18/3463538
 "85 Pembroke Cottages Donnybrook Dublin 4, Dublin 4",-6.235514,53.322903,450000.0,61,D4,3.0703634718781343,http://www.daft.ie/for-sale/terraced-house-85-pembroke-cottages-donnybrook-dublin-4-dublin-4/3464501
 "1 Tynan Hall Park, Kingswood, Tallaght, Dublin 24",-6.373053,53.306831,450000.0,N/A,D24,8.082197151166456,http://www.daft.ie/for-sale/semi-detached-house-1-tynan-hall-park-kingswood-tallaght-dublin-24/3442918
-"21 St. Anne's Park, Shankill, Dublin 18",-6.124085,53.234103,450000.0,72,D18,15.398153608743042,http://www.daft.ie/for-sale/semi-detached-house-21-st-annes-park-shankill-dublin-18/3463538
 "1 Dodder View Cottages, Ballsbridge, Dublin 4",-6.230364,53.330643,450000.0,52,D4,2.811470439514743,http://www.daft.ie/for-sale/semi-detached-house-1-dodder-view-cottages-ballsbridge-dublin-4/3416336
 "10 Ferndale Road, Glasnevin, Dublin 11",-6.281741,53.387704,450000.0,102,D11,5.0720344543621385,http://www.daft.ie/for-sale/semi-detached-house-10-ferndale-road-glasnevin-dublin-11/3482290
 "10 Creighton Street, City Quay, Dublin 2",-6.246638,53.345859,450000.0,N/A,D2,1.416989892307546,http://www.daft.ie/for-sale/end-of-terrace-house-10-creighton-street-city-quay-dublin-2/3468695
@@ -1681,8 +1681,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "89 Willow Park Avenue, Glasnevin, Dublin 11",-6.271793,53.391051,495000.0,N/A,D11,5.362074561610084,http://www.daft.ie/for-sale/semi-detached-house-89-willow-park-avenue-glasnevin-dublin-11/3481451
 "67 Beaumont Road, Beaumont, Dublin 9",-6.23661,53.383853,495000.0,136,D9,4.99107421839696,http://www.daft.ie/for-sale/semi-detached-house-67-beaumont-road-beaumont-dublin-9/3475301
 "10 Ratra Road, Navan Road, Navan Road (D7), Dublin 7",-6.319463,53.36735,495000.0,113,D7,4.396623692032278,http://www.daft.ie/for-sale/semi-detached-house-10-ratra-road-navan-road-navan-road-d7-dublin-7/3489949
-"13 Beverly Lawns, Knocklyon, Dublin 16",-6.321184,53.280758,495000.0,103,D16,7.7790419954783045,http://www.daft.ie/for-sale/semi-detached-house-13-beverly-lawns-knocklyon-dublin-16/3466532
 "224 Swords Road, Whitehall, Dublin 9",-6.244779,53.388188,495000.0,165,D9,5.254712908061998,http://www.daft.ie/for-sale/semi-detached-house-224-swords-road-whitehall-dublin-9/3460526
+"13 Beverly Lawns, Knocklyon, Dublin 16",-6.321184,53.280758,495000.0,103,D16,7.7790419954783045,http://www.daft.ie/for-sale/semi-detached-house-13-beverly-lawns-knocklyon-dublin-16/3466532
 "40 Kinvara Road, Navan Road (D7), Dublin 7",-6.31642,53.3699588,495000.0,N/A,D7,4.431285219041518,http://www.daft.ie/for-sale/end-of-terrace-house-40-kinvara-road-navan-road-d7-dublin-7/3482588
 "21 Woodstown Heath, Knocklyon, Dublin 16",-6.328866,53.273622,495000.0,117,D16,8.718900144810155,http://www.daft.ie/for-sale/semi-detached-house-21-woodstown-heath-knocklyon-dublin-16/3432671
 "19 Beaumont Drive, Churchtown, Dublin 14",-6.255302,53.293982,495000.0,101,D14,5.498473273962897,http://www.daft.ie/for-sale/terraced-house-19-beaumont-drive-churchtown-dublin-14/3439069
@@ -1696,8 +1696,8 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "6 Edward Place, Bloomfield Avenue, Donnybrook, Dublin 4",-6.246598,53.325643,495000.0,65,D4,2.3643128295004447,http://www.daft.ie/for-sale/apartment-6-edward-place-bloomfield-avenue-donnybrook-dublin-4/3255065
 "13 Brennanstown Avenue, Cabinteely, Dublin 18",-6.151141,53.256468,495000.0,125,D18,12.331075454878603,http://www.daft.ie/for-sale/duplex-13-brennanstown-avenue-cabinteely-dublin-18/3270885
 "54 Nash Street, Inchicore, Dublin 8",-6.332151,53.336181,495000.0,111,D8,4.363344627685264,http://www.daft.ie/for-sale/terraced-house-54-nash-street-inchicore-dublin-8/3489202
-"22 Kingston Walk, Ballinteer, Dublin 16",-6.251613,53.271045,495000.0,80,D16,8.058468720524475,http://www.daft.ie/for-sale/semi-detached-house-22-kingston-walk-ballinteer-dublin-16/3475415
 "6 Boden Heath, Rathfarnham, Dublin 16",-6.302172,53.282071,495000.0,N/A,D16,7.147463129314347,http://www.daft.ie/for-sale/terraced-house-6-boden-heath-rathfarnham-dublin-16/3469489
+"22 Kingston Walk, Ballinteer, Dublin 16",-6.251613,53.271045,495000.0,80,D16,8.058468720524475,http://www.daft.ie/for-sale/semi-detached-house-22-kingston-walk-ballinteer-dublin-16/3475415
 "Apt 1, 38 Haddington Road, Ballsbridge, Dublin 4",-6.240947,53.335604,495000.0,67,D4,1.934587473494382,http://www.daft.ie/for-sale/apartment-apt-1-38-haddington-road-ballsbridge-dublin-4/3496142
 "9 Granite Terrace, Inchicore, Dublin 8",-6.323491,53.339635,495000.0,N/A,D8,3.7414618409815272,http://www.daft.ie/for-sale/terraced-house-9-granite-terrace-inchicore-dublin-8/3466513
 "36 Merrion Court, Ailesbury Road, Ballsbridge, Dublin 4",-6.214803,53.320426,495000.0,92,D4,4.294582740625239,http://www.daft.ie/for-sale/apartment-36-merrion-court-ailesbury-road-ballsbridge-dublin-4/3289418
@@ -1748,3 +1748,231 @@ title,longitude,latitude,price,size,post_area,dist_to_city_center,link
 "16 Heuston Square, Inchicore Road, Kilmainham, Dublin 8",-6.312794,53.342559,500000.0,121,D8,3.013781725774721,http://www.daft.ie/for-sale/end-of-terrace-house-16-heuston-square-inchicore-road-kilmainham-dublin-8/3486505
 "64 Ardmore Drive, Artane, Dublin 5",-6.216672,53.386286,500000.0,186,D5,5.882458831113863,http://www.daft.ie/for-sale/semi-detached-house-64-ardmore-drive-artane-dublin-5/3431837
 "20 Lanesville, Dun Laoghaire, Co. Dublin",-6.157264,53.286248,500000.0,N/A,Co. D,9.654619147011754,http://www.daft.ie/for-sale/site-20-lanesville-dun-laoghaire-co-dublin/3270890
+"29 Ellesmere Avenue, North Circular Road, Dublin 7",-6.293287,53.357941,510000.0,105,D7,2.3978172526622843,http://www.daft.ie/for-sale/semi-detached-house-29-ellesmere-avenue-north-circular-road-dublin-7/2598167
+"Apt 2., 47 Sandycove Road, Sandycove, Co. Dublin",-6.11665,53.286164,510000.0,77,Co. D,11.835868168414905,http://www.daft.ie/for-sale/apartment-apt-2-47-sandycove-road-sandycove-co-dublin/3424544
+"46 Levmoss Avenue, The Gallops, Leopardstown, Dublin 18",-6.198608,53.263016,515000.0,116,D18,9.989860097184234,http://www.daft.ie/for-sale/duplex-46-levmoss-avenue-the-gallops-leopardstown-dublin-18/3471734
+"15 Belarmine Close Belarmine Dublin 18, Stepaside, Dublin 18",-6.219168,53.260364,515000.0,115,D18,9.72112553298865,http://www.daft.ie/for-sale/semi-detached-house-15-belarmine-close-belarmine-dublin-18-stepaside-dublin-18/3284155
+"89 The Pavilion, Marine Road, Dun Laoghaire, Co. Dublin",-6.133126,53.293613,515000.0,84,Co. D,10.468305420349301,http://www.daft.ie/for-sale/apartment-89-the-pavilion-marine-road-dun-laoghaire-co-dublin/3290045
+"6 Prospect Avenue, Prospect Manor, Rathfarnham, Dublin 16",-6.300147,53.276224,515000.0,103,D16,7.726662502397494,http://www.daft.ie/for-sale/semi-detached-house-6-prospect-avenue-prospect-manor-rathfarnham-dublin-16/3436885
+"4 Oakton Court, Ballybrack, Co. Dublin",-6.127854,53.254783,519950.0,N/A,Co. D,13.490789720830193,http://www.daft.ie/for-sale/site-4-oakton-court-ballybrack-co-dublin/3210111
+"Apartment 70, Forbes Quay Apartments, Grand Canal Dock, Dublin 2",-6.238753,53.34539,520000.0,70,D2,1.9217572929131066,http://www.daft.ie/for-sale/apartment-apartment-70-forbes-quay-apartments-grand-canal-dock-dublin-2/3465718
+"12 Woodstown Lane, Knocklyon, Dublin 16",-6.321952,53.27358,520000.0,102,D16,8.517646624606561,http://www.daft.ie/for-sale/semi-detached-house-12-woodstown-lane-knocklyon-dublin-16/3492246
+"3 Woodstown Heath, Knocklyon, Dublin 16",-6.329464,53.274027,520000.0,101,D16,8.697893285494526,http://www.daft.ie/for-sale/semi-detached-house-3-woodstown-heath-knocklyon-dublin-16/3464872
+"66 Olcovar, Shankill, Dublin 18",-6.12612,53.227465,520000.0,115,D18,15.904766818318425,http://www.daft.ie/for-sale/end-of-terrace-house-66-olcovar-shankill-dublin-18/3265453
+"17 Brookdene, Killiney, Co. Dublin",-6.12078,53.242845,520000.0,88,Co. D,14.789962283485995,http://www.daft.ie/for-sale/semi-detached-house-17-brookdene-killiney-co-dublin/3431371
+"9 Parc Na Silla Avenue, Shankill, Co. Dublin",-6.130614,53.238879,520000.0,87,Co. D,14.712117328282325,http://www.daft.ie/for-sale/semi-detached-house-9-parc-na-silla-avenue-shankill-co-dublin/3435962
+"55 Olcovar, Shankill, Dublin 18",-6.127056,53.227212,520000.0,112,D18,15.890885929096086,http://www.daft.ie/for-sale/terraced-house-55-olcovar-shankill-dublin-18/3492418
+"Lot 1 24 Slademore Drive, Ard Na Greine, Ayrfield, Dublin 13",-6.18442,53.396648,524950.0,N/A,D13,8.125659322211272,http://www.daft.ie/for-sale/semi-detached-house-lot-1-24-slademore-drive-ard-na-greine-ayrfield-dublin-13/3492233
+"90 Mountain View, Crinken Glen, Shankill, Dublin 18",-6.127829,53.22656,524950.0,118,D18,15.919670100103835,http://www.daft.ie/for-sale/semi-detached-house-90-mountain-view-crinken-glen-shankill-dublin-18/3482085
+"85 Rockford Park, Blackrock, Co. Dublin",-6.164801,53.286476,524950.0,116,Co. D,9.263745103572495,http://www.daft.ie/for-sale/end-of-terrace-house-85-rockford-park-blackrock-co-dublin/3466556
+"104 Meadowbank, Bushy Park Road, Terenure, Dublin 6",-6.277202,53.305665,524950.0,N/A,D6,4.19121018553961,http://www.daft.ie/for-sale/end-of-terrace-house-104-meadowbank-bushy-park-road-terenure-dublin-6/3243285
+"8 Thirlestane Terrace, Thomas Court, The Liberties, Dublin 8",-6.281569,53.341919,525000.0,125,D8,0.9469394652616945,http://www.daft.ie/for-sale/terraced-house-8-thirlestane-terrace-thomas-court-the-liberties-dublin-8/3262034
+"10 Royse Road, Phibsborough, Dublin 7",-6.271625,53.363066,525000.0,128,D7,2.259822336013783,http://www.daft.ie/for-sale/end-of-terrace-house-10-royse-road-phibsborough-dublin-7/3419514
+"34 Adelaide Square, Whitefriar Street, Dublin 8",-6.267336,53.339611,525000.0,100,D8,0.3657447942609839,http://www.daft.ie/for-sale/apartment-34-adelaide-square-whitefriar-street-dublin-8/3221968
+"14 Maple Drive, Terenure, Dublin 6W",-6.28651,53.31686,525000.0,80,D6,3.1613982574350477,http://www.daft.ie/for-sale/terraced-house-14-maple-drive-terenure-dublin-6w/3479628
+"3 Dalriada Park, Knocklyon, Dublin 16",-6.328412,53.271683,525000.0,104,D16,8.896223521338257,http://www.daft.ie/for-sale/terraced-house-3-dalriada-park-knocklyon-dublin-16/3466534
+"39 The Paddocks, Hybreasal, South Circular Road, Dublin 8",-6.307709,53.338646,525000.0,92,D8,2.717575269640973,http://www.daft.ie/for-sale/end-of-terrace-house-39-the-paddocks-hybreasal-south-circular-road-dublin-8/3487724
+"27 Millmount Grove, Dundrum Road, Dundrum, Dublin 14",-6.246192,53.303916,525000.0,114,D14,4.55793066173177,http://www.daft.ie/for-sale/semi-detached-house-27-millmount-grove-dundrum-road-dundrum-dublin-14/3425364
+"8 Grace Park Grove, Grace Park Wood, Drumcondra, Dublin 9",-6.246359,53.369032,525000.0,105,D9,3.223863749921877,http://www.daft.ie/for-sale/terraced-house-8-grace-park-grove-grace-park-wood-drumcondra-dublin-9/3488632
+"6 St Joseph's Street, Phibsborough, Dublin 7",-6.263637,53.359587,525000.0,123,D7,1.8722439694812136,http://www.daft.ie/for-sale/terraced-house-6-st-josephs-street-phibsborough-dublin-7/3453648
+"111 Carysfort Park, Blackrock, Co. Dublin",-6.183762,53.292227,525000.0,81,Co. D,7.91291901352101,http://www.daft.ie/for-sale/end-of-terrace-house-111-carysfort-park-blackrock-co-dublin/3265383
+"10 Claddagh, Bailey View, Dalkey, Co. Dublin",-6.104683,53.283664,525000.0,85,Co. D,12.658341622936781,http://www.daft.ie/for-sale/apartment-10-claddagh-bailey-view-dalkey-co-dublin/3155180
+"11A Arbour Place, Stoneybatter, Dublin 7",-6.2836,53.350527,525000.0,N/A,D7,1.3695410125663239,http://www.daft.ie/for-sale/site-11a-arbour-place-stoneybatter-dublin-7/3486082
+"5 Beverly Drive, Knocklyon, Dublin 16",-6.318515,53.28135,525000.0,137,D16,7.6401745960439325,http://www.daft.ie/for-sale/semi-detached-house-5-beverly-drive-knocklyon-dublin-16/3475481
+"Ardagh, 179 Kimmage Road West, Kimmage, Dublin 12",-6.316159,53.315836,525000.0,N/A,D12,4.420482783440292,http://www.daft.ie/for-sale/semi-detached-house-ardagh-179-kimmage-road-west-kimmage-dublin-12/3263393
+"Cahercalla, 38 Rowanbyrn, Blackrock, Co. Dublin",-6.170494,53.287931,525000.0,116,Co. D,8.876905452813975,http://www.daft.ie/for-sale/semi-detached-house-cahercalla-38-rowanbyrn-blackrock-co-dublin/3484073
+"10 Eastmore, Bushy Park Road, Terenure, Dublin 6",-6.280826,53.307017,525000.0,101,D6,4.0884280943849305,http://www.daft.ie/for-sale/apartment-10-eastmore-bushy-park-road-terenure-dublin-6/3415250
+"11 Glendale Park, Terenure, Dublin 12",-6.314679,53.308039,525000.0,100,D12,4.988538019220099,http://www.daft.ie/for-sale/semi-detached-house-11-glendale-park-terenure-dublin-12/3490165
+"51 Clonliffe Gardens, Drumcondra, Dublin 3",-6.246728,53.36248,525000.0,110,D3,2.573445213117122,http://www.daft.ie/for-sale/terraced-house-51-clonliffe-gardens-drumcondra-dublin-3/3290002
+"41 Riverwood Gardens, Castleknock, Dublin 15",-6.396081,53.373462,525000.0,103,D15,9.190915551183608,http://www.daft.ie/for-sale/semi-detached-house-41-riverwood-gardens-castleknock-dublin-15/3487478
+"95 Seamount, Block 4, Blackrock, Co. Dublin",-6.203417,53.3067,525000.0,93,Co. D,5.853200853647338,http://www.daft.ie/for-sale/apartment-95-seamount-block-4-blackrock-co-dublin/3442439
+"18 O'Donnell Gardens, Glasthule, Co. Dublin",-6.127184,53.286792,525000.0,75,Co. D,11.21090372044234,http://www.daft.ie/for-sale/terraced-house-18-odonnell-gardens-glasthule-co-dublin/3447447
+"Apartment 4, 27 Idrone Terrace, Blackrock, Co. Dublin",-6.177287,53.302001,525000.0,66,Co. D,7.51689989584846,http://www.daft.ie/for-sale/apartment-apartment-4-27-idrone-terrace-blackrock-co-dublin/3236880
+"30 Nottingham Street, North Strand, Dublin 3",-6.243097,53.359605,525000.0,121,D3,2.460148097315391,http://www.daft.ie/for-sale/terraced-house-30-nottingham-street-north-strand-dublin-3/3472949
+"6 Dundrum Wood, Dundrum, Dublin 16",-6.246769,53.285564,525000.0,N/A,D16,6.521119968470734,http://www.daft.ie/for-sale/semi-detached-house-6-dundrum-wood-dundrum-dublin-16/3245592
+"20 Walsh Road, Drumcondra, Dublin 9",-6.261439,53.374621,525000.0,101,D9,3.5493273060015107,http://www.daft.ie/for-sale/end-of-terrace-house-20-walsh-road-drumcondra-dublin-9/3479000
+"5 Southmede, Dundrum, Dublin 16",-6.244584,53.28298,525000.0,95,D16,6.833032904919265,http://www.daft.ie/for-sale/apartment-5-southmede-dundrum-dublin-16/3477011
+"7 De Vesci House, Monkstown, Co. Dublin",-6.147614,53.294826,525000.0,88,Co. D,9.58555500382153,http://www.daft.ie/for-sale/apartment-7-de-vesci-house-monkstown-co-dublin/2632836
+"92 Mountain View, Crinken Glen, Co. Dublin., D18A5F7, Shankill, Dublin 18",-6.127876,53.226628,525000.0,95,Co. D,15.911700653271991,http://www.daft.ie/for-sale/semi-detached-house-92-mountain-view-crinken-glen-co-dublin-d18a5f7-shankill-dublin-18/3260727
+"13 St Kevin's Park, Stillorgan, Co. Dublin",-6.215959,53.286336,525000.0,118,Co. D,7.157996630248841,http://www.daft.ie/for-sale/terraced-house-13-st-kevins-park-stillorgan-co-dublin/3467448
+"Apartment 17, Pavillion 2, Dun Laoghaire, Co. Dublin",-6.134677,53.293194,525000.0,81,Co. D,10.405377432523755,http://www.daft.ie/for-sale/apartment-apartment-17-pavillion-2-dun-laoghaire-co-dublin/3427152
+"74 Shanboley Road, Santry, Whitehall, Dublin 9",-6.236569,53.389713,525000.0,150,D9,5.592892226294177,http://www.daft.ie/for-sale/semi-detached-house-74-shanboley-road-santry-whitehall-dublin-9/3227590
+"26 Cranmer Place, Haddington Road, Dublin 4",-6.237183,53.337358,525000.0,78,D4,2.0986352701559405,http://www.daft.ie/for-sale/apartment-26-cranmer-place-haddington-road-dublin-4/3289634
+"24 Fisherman's Wharf, Ringsend, Dublin 4",-6.227831,53.344153,525000.0,104,D4,2.6304858755285063,http://www.daft.ie/for-sale/terraced-house-24-fishermans-wharf-ringsend-dublin-4/3462470
+"Cambridge Lodge, 14a Cambridge Road, Rathmines, Dublin 6",-6.262275,53.322469,525000.0,N/A,D6,2.2971707248188404,http://www.daft.ie/for-sale/semi-detached-house-cambridge-lodge-14a-cambridge-road-rathmines-dublin-6/3279997
+"7A Parc Na Silla Rise, Loughlinstown, Co. Dublin",-6.129888,53.239794,525000.0,96,Co. D,14.662233268924263,http://www.daft.ie/for-sale/detached-house-7a-parc-na-silla-rise-loughlinstown-co-dublin/3486748
+"28a Brunswick Street North, Smithfield, Dublin 7",-6.279308,53.350597,525000.0,99,D7,1.16504385923561,http://www.daft.ie/for-sale/terraced-house-28a-brunswick-street-north-smithfield-dublin-7/3236302
+"178 Whitecliff, Rathfarnham, Dublin 16",-6.288327,53.282597,529000.0,113,D16,6.847992544217166,http://www.daft.ie/for-sale/semi-detached-house-178-whitecliff-rathfarnham-dublin-16/3496313
+"34 Mountpleasant Terrace, Ranelagh, Dublin 6",-6.2615,53.328587,530000.0,65,D6,1.6390364365612249,http://www.daft.ie/for-sale/terraced-house-34-mountpleasant-terrace-ranelagh-dublin-6/3486236
+"65 Olcovar, Shankill, Dublin 18",-6.126188,53.227437,530000.0,112,D18,15.90461300804643,http://www.daft.ie/for-sale/terraced-house-65-olcovar-shankill-dublin-18/3185302
+"Apartment 29, The Ramparts, Cabinteely, Dublin 18",-6.143271,53.250159,530000.0,162,D18,13.20593115329518,http://www.daft.ie/for-sale/apartment-apartment-29-the-ramparts-cabinteely-dublin-18/3466102
+"14 Grove Park Crescent, Glasnevin, Dublin 11",-6.280362,53.392074,530000.0,N/A,D11,5.535117309725675,http://www.daft.ie/for-sale/semi-detached-house-14-grove-park-crescent-glasnevin-dublin-11/3447518
+"22 Cedarwood Avenue, Glasnevin, Dublin 11",-6.286599,53.395139,535000.0,N/A,D11,5.946731189156634,http://www.daft.ie/for-sale/detached-house-22-cedarwood-avenue-glasnevin-dublin-11/2757431
+"37 Thorndale Drive, Artane, Dublin 5",-6.21608,53.378379,535000.0,131,D5,5.2116448827630695,http://www.daft.ie/for-sale/semi-detached-house-37-thorndale-drive-artane-dublin-5/3239799
+"78 Shanganagh Grove, Shankill, Dublin 18",-6.11659,53.230703,535000.0,N/A,D18,16.00442195603022,http://www.daft.ie/for-sale/semi-detached-house-78-shanganagh-grove-shankill-dublin-18/3173772
+"35 Portersgate Crescent, Clonsilla, Dublin 15",-6.426286,53.384798,535000.0,N/A,D15,11.526145924961734,http://www.daft.ie/for-sale/semi-detached-house-35-portersgate-crescent-clonsilla-dublin-15/3212859
+"3 Del Val Court, Sutton, Dublin 13",-6.140453,53.387128,535000.0,136,D13,9.753736923928729,http://www.daft.ie/for-sale/end-of-terrace-house-3-del-val-court-sutton-dublin-13/3204913
+"103 Glasnevin Park, Glasnevin, Dublin 11",-6.277393,53.389257,535000.0,N/A,D11,5.197130854138307,http://www.daft.ie/for-sale/semi-detached-house-103-glasnevin-park-glasnevin-dublin-11/3488763
+"45A Caragh Road, Cabra, Dublin 7",-6.297663,53.359815,535000.0,118,D7,2.751780277905803,http://www.daft.ie/for-sale/detached-house-45a-caragh-road-cabra-dublin-7/3467764
+"2 Gledswood Mews Bird Avenue Clonskeagh Dublin 14, Clonskeagh, Dublin 14",-6.239979,53.305015,540000.0,96,D14,4.589430164992654,http://www.daft.ie/for-sale/terraced-house-2-gledswood-mews-bird-avenue-clonskeagh-dublin-14-clonskeagh-dublin-14/3454525
+"Apartment 121, Cherry, Trimbleston, Goatstown, Dublin 14",-6.231589,53.29903,540000.0,110,D14,5.4271253834502255,http://www.daft.ie/for-sale/apartment-apartment-121-cherry-trimbleston-goatstown-dublin-14/3429426
+"1 Seaview, Hollybrook Road, Clontarf, Dublin 3",-6.218837,53.363026,540000.0,70,D3,3.9238907207885125,http://www.daft.ie/for-sale/townhouse-1-seaview-hollybrook-road-clontarf-dublin-3/3489181
+"Apartment 23, Cowper Hall, Milltown Avenue, Mount Saint Annes, Milltown, Dublin 6",-6.249458,53.31192,540000.0,92,D6,3.645068682234641,http://www.daft.ie/for-sale/apartment-apartment-23-cowper-hall-milltown-avenue-mount-saint-annes-milltown-dublin-6/3422794
+"41 Glen Drive, Cabinteely, Dublin 18",-6.163346,53.26264,545000.0,99,D18,11.289527957436599,http://www.daft.ie/for-sale/semi-detached-house-41-glen-drive-cabinteely-dublin-18/3451941
+"18 Arbutus Place, Lombard Street West, Portobello, Dublin 8",-6.273406,53.333255,545000.0,65,D8,1.1442081857526012,http://www.daft.ie/for-sale/terraced-house-18-arbutus-place-lombard-street-west-portobello-dublin-8/3184854
+"9 The Oaks, Clontarf, Dublin 3",-6.174584,53.366657,545000.0,95,D3,6.70251158664296,http://www.daft.ie/for-sale/terraced-house-9-the-oaks-clontarf-dublin-3/3483485
+"1 Sycamore Close, The Park, Cabinteely, Dublin 18",-6.166881,53.262271,545000.0,N/A,D18,11.1801073960549,http://www.daft.ie/for-sale/semi-detached-house-1-sycamore-close-the-park-cabinteely-dublin-18/3494354
+"16 Pembroke Street, Irishtown, Dublin 4",-6.222209,53.339741,545000.0,80,D4,3.0206592462445316,http://www.daft.ie/for-sale/terraced-house-16-pembroke-street-irishtown-dublin-4/3201131
+"45 Ramleh Hall, Mount Saint Annes, Milltown, Dublin 6",-6.249419,53.312762,545000.0,81,D6,3.5575823481216684,http://www.daft.ie/for-sale/apartment-45-ramleh-hall-mount-saint-annes-milltown-dublin-6/3226939
+"12 Riverwood Dene, Castleknock, Dublin 15",-6.399982,53.377618,545000.0,143,D15,9.607721480597649,http://www.daft.ie/for-sale/semi-detached-house-12-riverwood-dene-castleknock-dublin-15/3428246
+"19 Johnstown Road, Cabinteely, Dublin 18",-6.144142,53.26971,545000.0,133,D18,11.545691105491427,http://www.daft.ie/for-sale/terraced-house-19-johnstown-road-cabinteely-dublin-18/3429583
+"67 Corbawn Drive, Shankill, Dublin 18",-6.114563,53.233063,545000.0,103,D18,15.886365414970037,http://www.daft.ie/for-sale/semi-detached-house-67-corbawn-drive-shankill-dublin-18/3416740
+"36 Woodview Park, Castleknock, Dublin 15",-6.359988,53.378447,545000.0,87,D15,7.30561927567958,http://www.daft.ie/for-sale/semi-detached-house-36-woodview-park-castleknock-dublin-15/2923656
+"45 Stratford Haven, Orwell Road, Rathgar, Dublin 6",-6.273129,53.31038,545000.0,83,D6,3.63601993850972,http://www.daft.ie/for-sale/terraced-house-45-stratford-haven-orwell-road-rathgar-dublin-6/3451156
+"The Forge, Churchview, Clonsilla, Dublin 15",-6.422575,53.38363,545000.0,102,D15,11.24856964716849,http://www.daft.ie/for-sale/bungalow-the-forge-churchview-clonsilla-dublin-15/1219605
+"103 Wyckham Point, Wyckham Way, Dundrum, Dublin 16",-6.243236,53.280499,545000.0,91,D16,7.121957623481149,http://www.daft.ie/for-sale/apartment-103-wyckham-point-wyckham-way-dundrum-dublin-16/3482026
+"13 Belvedere Road, Dublin 1",-6.259354,53.360112,545000.0,164,D1,1.9869969683339506,http://www.daft.ie/for-sale/terraced-house-13-belvedere-road-dublin-1/3478959
+"132 Glasnevin Avenue, Glasnevin, Dublin 11",-6.275097,53.390419,545000.0,148,D11,5.30849353883457,http://www.daft.ie/for-sale/terraced-house-132-glasnevin-avenue-glasnevin-dublin-11/3448316
+"244 Foxrock Grove, Foxrock, Dublin 18",-6.166255,53.277463,545000.0,67,D18,9.904510328981427,http://www.daft.ie/for-sale/semi-detached-house-244-foxrock-grove-foxrock-dublin-18/3492061
+"22 Geraldine Street, Phibsborough, D07P5F6, Dublin 7",-6.269992,53.357624,549000.0,N/A,D7,1.6462485604481947,http://www.daft.ie/for-sale/end-of-terrace-house-22-geraldine-street-phibsborough-d07p5f6-dublin-7/3480941
+"4 Lower Road, Shankill, Dublin 18",-6.125272,53.233142,549000.0,95,D18,15.43389135289908,http://www.daft.ie/for-sale/semi-detached-house-4-lower-road-shankill-dublin-18/2930963
+"8 Castlefield Grove, Knocklyon, Dublin 16",-6.326839,53.279981,549950.0,N/A,D16,8.033749405606493,http://www.daft.ie/for-sale/semi-detached-house-8-castlefield-grove-knocklyon-dublin-16/3271200
+"18 Berwick Hall, Whitehall Road, Churchtown, Dublin 14",-6.2687,53.294058,549950.0,93,D14,5.431669046879774,http://www.daft.ie/for-sale/terraced-house-18-berwick-hall-whitehall-road-churchtown-dublin-14/3429505
+"191 Swords Road, Whitehall, Dublin 9",-6.243668,53.386245,549950.0,N/A,D9,5.070456752367976,http://www.daft.ie/for-sale/semi-detached-house-191-swords-road-whitehall-dublin-9/2921882
+"7 Ticknock Grove Sandyford Dublin 18, Ticknock, Co. Dublin",-6.244418,53.269402,550000.0,120,D18,8.314036052491975,http://www.daft.ie/for-sale/semi-detached-house-7-ticknock-grove-sandyford-dublin-18-ticknock-co-dublin/3414570
+"138 Kimmage Road West, Kimmage, Dublin 12",-6.311432,53.314491,550000.0,105,D12,4.304551560422535,http://www.daft.ie/for-sale/semi-detached-house-138-kimmage-road-west-kimmage-dublin-12/3263322
+"23 Martin Street, Portobello, Dublin 8",-6.268504,53.33054,550000.0,75,D8,1.376322627430553,http://www.daft.ie/for-sale/terraced-house-23-martin-street-portobello-dublin-8/3225026
+"13 Wayside Cottages, Kilternan, Dublin 18",-6.197154,53.238434,550000.0,56,D18,12.519332931470275,http://www.daft.ie/for-sale/semi-detached-house-13-wayside-cottages-kilternan-dublin-18/3478183
+"35 Beverly Downs, Knocklyon, Dublin 16",-6.323912,53.28102,550000.0,125,D16,7.838343116820611,http://www.daft.ie/for-sale/semi-detached-house-35-beverly-downs-knocklyon-dublin-16/3495588
+"87 Corr Castle Howth Road Howth, Howth, Dublin 13",-6.093672,53.389318,550000.0,110,D13,12.629673072707261,http://www.daft.ie/for-sale/apartment-87-corr-castle-howth-road-howth-howth-dublin-13/3270859
+"47 Orwell Woods, Rathgar, Dublin 6",-6.261396,53.308588,550000.0,78,D6,3.8361002036539995,http://www.daft.ie/for-sale/terraced-house-47-orwell-woods-rathgar-dublin-6/3494846
+"42 Wilkin's View, Temple Manor Drive, Limekiln, Walkinstown, Dublin 12",-6.330448,53.307226,550000.0,120,D12,5.767877206309795,http://www.daft.ie/for-sale/end-of-terrace-house-42-wilkins-view-temple-manor-drive-limekiln-walkinstown-dublin-12/3466681
+"40 Auburn Road Glenageary, Glenageary, Co. Dublin",-6.138812,53.265591,550000.0,123,Co. D,12.12026045560186,http://www.daft.ie/for-sale/semi-detached-house-40-auburn-road-glenageary-glenageary-co-dublin/3461444
+"24 Dargle Road, Drumcondra, Dublin 9",-6.259793,53.366488,550000.0,80,D9,2.6710126813636794,http://www.daft.ie/for-sale/terraced-house-24-dargle-road-drumcondra-dublin-9/3192158
+"24 Dargle Road, Drumcondra, Dublin 9",-6.259793,53.366488,550000.0,80,D9,2.6710126813636794,http://www.daft.ie/for-sale/terraced-house-24-dargle-road-drumcondra-dublin-9/3192158
+"6 Kingston Heights, Ballinteer, Dublin 16",-6.24726,53.271134,550000.0,114,D16,8.091431356345565,http://www.daft.ie/for-sale/semi-detached-house-6-kingston-heights-ballinteer-dublin-16/3468634
+"8 Phibsborough, Phibsborough, Dublin 7",-6.273666,53.359687,550000.0,921,D7,1.9123995623152088,http://www.daft.ie/for-sale/semi-detached-house-8-phibsborough-phibsborough-dublin-7/3459297
+"28 Balfe Avenue, Walkinstown, Dublin 12",-6.323422,53.319756,550000.0,N/A,D12,4.523489942909104,http://www.daft.ie/for-sale/terraced-house-28-balfe-avenue-walkinstown-dublin-12/3488948
+"28 Balfe Avenue, Walkinstown (House & site with FPP), Walkinstown, Dublin 12",-6.323422,53.319756,550000.0,N/A,D12,4.523489942909104,http://www.daft.ie/for-sale/site-28-balfe-avenue-walkinstown-house-site-with-fpp-walkinstown-dublin-12/3488999
+"1 Heather Close, Rathfarnham, Dublin 16",-6.262914,53.275575,550000.0,107,D16,7.492128982139726,http://www.daft.ie/for-sale/semi-detached-house-1-heather-close-rathfarnham-dublin-16/3494644
+"120 Inchicore Road, Kilmainham, Dublin 8",-6.318617,53.341869,550000.0,138,D8,3.4020706901423026,http://www.daft.ie/for-sale/terraced-house-120-inchicore-road-kilmainham-dublin-8/3464698
+"Apartment 6, The Bay, Dublin 4",-6.206722,53.312859,550000.0,110,D4,5.234114344976132,http://www.daft.ie/for-sale/apartment-apartment-6-the-bay-dublin-4/3451137
+"73 Clarence Mangan Road, The Tenters, Dublin 8",-6.277549,53.334669,550000.0,94,D8,1.1365317773880477,http://www.daft.ie/for-sale/end-of-terrace-house-73-clarence-mangan-road-the-tenters-dublin-8/3474445
+"32 The Avenue, Woodpark, Ballinteer, Dublin 16",-6.246619,53.275533,550000.0,124,D16,7.617042178857004,http://www.daft.ie/for-sale/semi-detached-house-32-the-avenue-woodpark-ballinteer-dublin-16/3470251
+"42 Castle Farm, Shankill, Dublin 18",-6.122055,53.226897,550000.0,149,D18,16.11635738920923,http://www.daft.ie/for-sale/detached-house-42-castle-farm-shankill-dublin-18/3468950
+"2 Orchard Terrace, Upper Grangegorman Road, Phibsborough, Dublin 7",-6.281581,53.358191,550000.0,115,D7,1.9434284448511854,http://www.daft.ie/for-sale/terraced-house-2-orchard-terrace-upper-grangegorman-road-phibsborough-dublin-7/3264378
+"44 Beaumont Avenue, Churchtown, Dublin 14",-6.256994,53.294368,550000.0,120,D14,5.440598366199623,http://www.daft.ie/for-sale/terraced-house-44-beaumont-avenue-churchtown-dublin-14/3486195
+"4 Marlborough Court Glenageary, Glenageary, Co. Dublin",-6.124705,53.277857,550000.0,92,Co. D,11.924020415934951,http://www.daft.ie/for-sale/terraced-house-4-marlborough-court-glenageary-glenageary-co-dublin/3231601
+"5 Glencairn Harbour Road Dalkey, Dalkey, Co. Dublin",-6.102593,53.280585,550000.0,87,Co. D,12.957261773783499,http://www.daft.ie/for-sale/apartment-5-glencairn-harbour-road-dalkey-dalkey-co-dublin/3248857
+"24 Newlands Park, Clondalkin, Dublin 22",-6.386383,53.315666,550000.0,161,D22,8.461776659021359,http://www.daft.ie/for-sale/semi-detached-house-24-newlands-park-clondalkin-dublin-22/3435978
+"40 Pudding Row, Essex Street West, Temple Bar, Dublin 8",-6.268468,53.344624,550000.0,75,D8,0.20439072749198842,http://www.daft.ie/for-sale/apartment-40-pudding-row-essex-street-west-temple-bar-dublin-8/3484738
+"Innismore House, Crumlin Village, Crumlin, Dublin 12",-6.317204,53.321162,550000.0,148,D12,4.096314371669966,http://www.daft.ie/for-sale/detached-house-innismore-house-crumlin-village-crumlin-dublin-12/2567363
+"Bella Vista, 35 Cedarwood Road, Glasnevin, Dublin 11",-6.284013,53.39551,550000.0,N/A,D11,5.95289158479964,http://www.daft.ie/for-sale/semi-detached-house-bella-vista-35-cedarwood-road-glasnevin-dublin-11/3231682
+"29 Braemor Avenue, Churchtown, Dublin 14",-6.26271,53.301754,550000.0,93,D14,4.585818353666725,http://www.daft.ie/for-sale/terraced-house-29-braemor-avenue-churchtown-dublin-14/3450519
+"29 Camden Avenue, Ashtown, Dublin 15",-6.318851,53.376278,550000.0,158,D15,5.043052041056632,http://www.daft.ie/for-sale/townhouse-29-camden-avenue-ashtown-dublin-15/3451550
+"1 Milltown Court, Milltown Road, Milltown, Dublin 6",-6.247127,53.312544,550000.0,107,D6,3.6340251896337836,http://www.daft.ie/for-sale/townhouse-1-milltown-court-milltown-road-milltown-dublin-6/3387445
+"12 Redcourt Oaks, Seafield Road East, Clontarf, Dublin 3",-6.183423,53.363113,550000.0,93,D3,6.009698422845938,http://www.daft.ie/for-sale/semi-detached-house-12-redcourt-oaks-seafield-road-east-clontarf-dublin-3/3276524
+"Apartment 124, Cherry, Trimbleston, Goatstown, Dublin 14",-6.231589,53.29903,550000.0,105,D14,5.4271253834502255,http://www.daft.ie/for-sale/apartment-apartment-124-cherry-trimbleston-goatstown-dublin-14/3494652
+"6 Stocking Wood Manor, Stocking Avenue, Rathfarnham, Dublin 16",-6.31545,53.271616,550000.0,123,D16,8.545190785652977,http://www.daft.ie/for-sale/semi-detached-house-6-stocking-wood-manor-stocking-avenue-rathfarnham-dublin-16/3495272
+"30 Shandon Gardens, Phibsborough, Dublin 7",-6.280599,53.3664,550000.0,N/A,D7,2.756002085190171,http://www.daft.ie/for-sale/terraced-house-30-shandon-gardens-phibsborough-dublin-7/3473993
+"132 Longboat Quay South Apartments, Grand Canal Dock, Dublin 2",-6.236373,53.344808,560000.0,109,D2,2.070613690931734,http://www.daft.ie/for-sale/duplex-132-longboat-quay-south-apartments-grand-canal-dock-dublin-2/3492341
+"3 The Lodge, Lower Glenageary Road, Glenageary, Co. Dublin",-6.135667,53.280895,560000.0,88,Co. D,11.141207023984423,http://www.daft.ie/for-sale/semi-detached-house-3-the-lodge-lower-glenageary-road-glenageary-co-dublin/3183223
+"26 Martin Street, Portobello, Dublin 8",-6.26821,53.330505,560000.0,70,D8,1.379309991429578,http://www.daft.ie/for-sale/terraced-house-26-martin-street-portobello-dublin-8/3280693
+"26 Martin Street, Portobello, Dublin 8",-6.26821,53.330505,560000.0,70,D8,1.379309991429578,http://www.daft.ie/for-sale/terraced-house-26-martin-street-portobello-dublin-8/2561042
+"3 Temple Court, Milltown Avenue, Mount Saint Annes, Milltown, Dublin 6",-6.248937,53.312188,565000.0,94,D6,3.6284627554028908,http://www.daft.ie/for-sale/townhouse-3-temple-court-milltown-avenue-mount-saint-annes-milltown-dublin-6/3447129
+"32 Bayview Close, Killiney, Co. Dublin",-6.115795,53.246824,565000.0,N/A,Co. D,14.685080008031205,http://www.daft.ie/for-sale/semi-detached-house-32-bayview-close-killiney-co-dublin/3475370
+"13A Clontarf Park, Clontarf, Dublin 3",-6.194479,53.359695,565000.0,N/A,D3,5.187784689291314,http://www.daft.ie/for-sale/terraced-house-13a-clontarf-park-clontarf-dublin-3/3481991
+"31 St Assam's Road West, Raheny, Dublin 5",-6.169476,53.382564,565000.0,100,D5,7.853211855368535,http://www.daft.ie/for-sale/semi-detached-house-31-st-assams-road-west-raheny-dublin-5/3265190
+"3 Castle Farm, Shankill, Dublin 18",-6.124193,53.226945,569950.0,128,D18,16.027256856645693,http://www.daft.ie/for-sale/detached-house-3-castle-farm-shankill-dublin-18/3478677
+"29 Derrynane Gardens, Sandymount, Dublin 4",-6.228698,53.339515,570000.0,96,D4,2.5968004603688843,http://www.daft.ie/for-sale/terraced-house-29-derrynane-gardens-sandymount-dublin-4/3479390
+"Apartment 11A, Block C, Donnybrook, Dublin 4",-6.22587,53.314299,575000.0,N/A,D4,4.209566531193178,http://www.daft.ie/for-sale/apartment-apartment-11a-block-c-donnybrook-dublin-4/3477923
+"59 Terenure Road North, Terenure, Dublin 6W",-6.282313,53.3120739,575000.0,124,D6,3.5679137143128377,http://www.daft.ie/for-sale/terraced-house-59-terenure-road-north-terenure-dublin-6w/2914769
+"20 White Pines Court Stocking Avenue Rathfarnham Dublin 16, Rathfarnham, Dublin 16",-6.316005,53.274431,575000.0,135,D16,8.269959411897787,http://www.daft.ie/for-sale/semi-detached-house-20-white-pines-court-stocking-avenue-rathfarnham-dublin-16-rathfarnham-dublin-16/3260051
+"9 Edward Place, Bloomfield Avenue, Donnybrook, Dublin 4",-6.245826,53.32631,575000.0,76,D4,2.3356029062622667,http://www.daft.ie/for-sale/apartment-9-edward-place-bloomfield-avenue-donnybrook-dublin-4/3416692
+"2 Bessborough Hall, Bessborough Parade, Rathmines, Dublin 6",-6.261896,53.327608,575000.0,65,D6,1.7392219104710456,http://www.daft.ie/for-sale/terraced-house-2-bessborough-hall-bessborough-parade-rathmines-dublin-6/3475487
+"36 Martin Street, Portobello, Dublin 8",-6.268203,53.330301,575000.0,77,D8,1.4019590388645797,http://www.daft.ie/for-sale/terraced-house-36-martin-street-portobello-dublin-8/2541481
+"7 Dromard Avenue, Sandymount, Dublin 4",-6.214499,53.333723,575000.0,65,D4,3.6575027807855887,http://www.daft.ie/for-sale/terraced-house-7-dromard-avenue-sandymount-dublin-4/3441138
+"55 Clonturk Park, Drumcondra, Dublin 3",-6.250799,53.368651,575000.0,106,D3,3.0680263710116944,http://www.daft.ie/for-sale/end-of-terrace-house-55-clonturk-park-drumcondra-dublin-3/3467625
+"32 Summer Street North, North Circular Road, D01F6W0, Dublin 1",-6.252024,53.357025,575000.0,178,D1,1.8730895907677951,http://www.daft.ie/for-sale/terraced-house-32-summer-street-north-north-circular-road-d01f6w0-dublin-1/3278652
+"38 Dale Road, Stillorgan, Co. Dublin",-6.214051,53.286374,575000.0,135,Co. D,7.215683905975624,http://www.daft.ie/for-sale/terraced-house-38-dale-road-stillorgan-co-dublin/3490609
+"6 Cremore Lawns Old Finglas Road Glasnevin Dublin 11, Glasnevin, Dublin 11",-6.281066,53.3774954,575000.0,131,D11,3.952281238851183,http://www.daft.ie/for-sale/semi-detached-house-6-cremore-lawns-old-finglas-road-glasnevin-dublin-11-glasnevin-dublin-11/3424209
+"66 Oliver Plunkett Road, Dun Laoghaire, Co. Dublin",-6.152159,53.284928,575000.0,127,Co. D,10.008076046930142,http://www.daft.ie/for-sale/semi-detached-house-66-oliver-plunkett-road-dun-laoghaire-co-dublin/3486686
+"Apartment 13, Block J, Hanover Riverside, Dublin 2",-6.237835,53.345382,575000.0,74,D2,1.981957726421535,http://www.daft.ie/for-sale/apartment-apartment-13-block-j-hanover-riverside-dublin-2/3248027
+"95 Glenvara Park, Knocklyon, Dublin 16",-6.328466,53.280233,575000.0,135,D16,8.063192398780865,http://www.daft.ie/for-sale/semi-detached-house-95-glenvara-park-knocklyon-dublin-16/3432107
+"Penthouse 53 The Rowan Rockfield Dundrum Dublin 16, Dundrum, Dublin 16",-6.235694,53.286845,575000.0,101,D16,6.579274207621124,http://www.daft.ie/for-sale/apartment-penthouse-53-the-rowan-rockfield-dundrum-dublin-16-dundrum-dublin-16/3491840
+"27 Laurel Bank, Lanesville, Monkstown, Co. Dublin",-6.157681,53.285885,575000.0,87,Co. D,9.660109150834373,http://www.daft.ie/for-sale/terraced-house-27-laurel-bank-lanesville-monkstown-co-dublin/3470304
+"43 The Amber, Blackrock, Co. Dublin",-6.193139,53.27996,575000.0,92,Co. D,8.562726839481503,http://www.daft.ie/for-sale/apartment-43-the-amber-blackrock-co-dublin/3486754
+"19 Wainsfort Manor Crescent, Terenure, Dublin 6",-6.311335,53.307526,575000.0,95,D6,4.897525021308962,http://www.daft.ie/for-sale/semi-detached-house-19-wainsfort-manor-crescent-terenure-dublin-6/3470207
+"3 Ticknock Grove, Ticknock Hill, Sandyford, Dublin 18",-6.244245,53.269376,575000.0,125,D18,8.318996170692916,http://www.daft.ie/for-sale/terraced-house-3-ticknock-grove-ticknock-hill-sandyford-dublin-18/3436516
+"49 Corbawn Drive, Shankill, Dublin 18",-6.113287,53.233454,575000.0,121,D18,15.907422966727475,http://www.daft.ie/for-sale/detached-house-49-corbawn-drive-shankill-dublin-18/3283043
+"68 Balglass Road, Howth, Co. Dublin",-6.067391,53.382186,575000.0,90,Co. D,13.972146614849052,http://www.daft.ie/for-sale/semi-detached-house-68-balglass-road-howth-co-dublin/2844985
+"115A Sycamore Road, Finglas, Glasnevin, Dublin 11",-6.286743,53.393182,575000.0,N/A,D11,5.736499014839289,http://www.daft.ie/for-sale/detached-house-115a-sycamore-road-finglas-glasnevin-dublin-11/3287882
+"14 The Grove, Griffith Downs, Drumcondra, Dublin 9",-6.25441,53.369188,575000.0,N/A,D9,3.0475673666058687,http://www.daft.ie/for-sale/semi-detached-house-14-the-grove-griffith-downs-drumcondra-dublin-9/3271902
+"85 Clonliffe Road, Drumcondra, Dublin 3",-6.247199,53.361751,575000.0,103,D3,2.488261796487371,http://www.daft.ie/for-sale/terraced-house-85-clonliffe-road-drumcondra-dublin-3/3263163
+"5 Alexandra Terrace, Terenure, Dublin 6",-6.280925,53.313032,575000.0,76,D6,3.4404810252446385,http://www.daft.ie/for-sale/terraced-house-5-alexandra-terrace-terenure-dublin-6/3434726
+"Apartment 37, The Cedar, Parkview, Stepaside, Dublin 18",-6.222985,53.259254,579000.0,118,D18,9.758059946499472,http://www.daft.ie/for-sale/apartment-apartment-37-the-cedar-parkview-stepaside-dublin-18/2762131
+"16 Sandyford Hall Rise, Sandyford, Dublin 18",-6.217069,53.263763,585000.0,110,D18,9.413734635727133,http://www.daft.ie/for-sale/semi-detached-house-16-sandyford-hall-rise-sandyford-dublin-18/3473701
+"25 The Linden Riversdale Dundrum Dublin 16, Dundrum, Dublin 16",-6.238258,53.286609,585000.0,99,D16,6.551810153121185,http://www.daft.ie/for-sale/apartment-25-the-linden-riversdale-dundrum-dublin-16-dundrum-dublin-16/2870261
+"25 The Linden Riversdale Dundrum Dublin 16, Dundrum, Dublin 16",-6.238258,53.286609,585000.0,99,D16,6.551810153121185,http://www.daft.ie/for-sale/apartment-25-the-linden-riversdale-dundrum-dublin-16-dundrum-dublin-16/3436316
+"4 Brighton Green, Rathgar, Dublin 6",-6.281572,53.314166,585000.0,89,D6,3.330803291943706,http://www.daft.ie/for-sale/end-of-terrace-house-4-brighton-green-rathgar-dublin-6/3459997
+"41 Shanganagh Grove, Shankill, Dublin 18",-6.114496,53.2289,590000.0,150,D18,16.248035126976422,http://www.daft.ie/for-sale/semi-detached-house-41-shanganagh-grove-shankill-dublin-18/3492678
+"73 Carlingford Road, Drumcondra, Dublin 3",-6.260678,53.366907,590000.0,88,D3,2.706478009724617,http://www.daft.ie/for-sale/terraced-house-73-carlingford-road-drumcondra-dublin-3/2842785
+"1 Gracelands, Saint Kevin's Gardens, Dartry, Dublin 6",-6.262891,53.309778,590000.0,70,D6,3.695151951340542,http://www.daft.ie/for-sale/bungalow-1-gracelands-saint-kevins-gardens-dartry-dublin-6/3258491
+"28 Treesdale, Stillorgan, Co. Dublin",-6.200435,53.295075,590000.0,98,Co. D,6.9328977858821,http://www.daft.ie/for-sale/terraced-house-28-treesdale-stillorgan-co-dublin/2614187
+"32 Stillorgan Gate, KILMACUD ROAD UPPER, Stillorgan, Co. Dublin",-6.224224,53.285455,590000.0,130,Co. D,7.001999983437998,http://www.daft.ie/for-sale/apartment-32-stillorgan-gate-kilmacud-road-upper-stillorgan-co-dublin/2613854
+"One Springfield Park, Foxrock Dublin 18, Foxrock, Dublin 18",-6.176142,53.273831,590000.0,N/A,D18,9.785002254655808,http://www.daft.ie/for-sale/apartment-one-springfield-park-foxrock-dublin-18-foxrock-dublin-18/3496411
+"110 Watson Drive, Killiney, Co. Dublin",-6.131355,53.258435,594950.0,122,Co. D,13.036127391748819,http://www.daft.ie/for-sale/semi-detached-house-110-watson-drive-killiney-co-dublin/3289504
+"8 Somerton Mews, Castleknock Golf Club, Castleknock, Dublin 15",-6.392475,53.364472,595000.0,111,D15,8.640757589088365,http://www.daft.ie/for-sale/end-of-terrace-house-8-somerton-mews-castleknock-golf-club-castleknock-dublin-15/3198876
+"Apartment 5, Avoca House, Blackrock, Co. Dublin",-6.185407,53.297041,595000.0,84,Co. D,7.460762913592637,http://www.daft.ie/for-sale/apartment-apartment-5-avoca-house-blackrock-co-dublin/3317382
+"7 Orby View, The Gallops, Leopardstown, Dublin 18",-6.202308,53.26419,595000.0,102,D18,9.762553095501318,http://www.daft.ie/for-sale/semi-detached-house-7-orby-view-the-gallops-leopardstown-dublin-18/3492402
+"20 Orchard Terrace, Grangegorman Upper, Dublin 7",-6.280159,53.357321,595000.0,135,D7,1.8134354085983153,http://www.daft.ie/for-sale/terraced-house-20-orchard-terrace-grangegorman-upper-dublin-7/3483575
+"7 Windsor Place, Lanesville, Monkstown, Co. Dublin",-6.15849,53.286312,595000.0,117,Co. D,9.588372099012604,http://www.daft.ie/for-sale/terraced-house-7-windsor-place-lanesville-monkstown-co-dublin/3251603
+"28 All Hallows Square, Drumcondra, Dublin 9",-6.251262,53.371718,595000.0,130,D9,3.378649087010902,http://www.daft.ie/for-sale/end-of-terrace-house-28-all-hallows-square-drumcondra-dublin-9/3494364
+"348 Kimmage Road Lower, Kimmage, Dublin 6W",-6.297325,53.313505,595000.0,107,D6,3.8252972497830013,http://www.daft.ie/for-sale/semi-detached-house-348-kimmage-road-lower-kimmage-dublin-6w/3208969
+"The Orchard, Orchard Lane, Blackrock, Co. Dublin",-6.178258,53.288491,595000.0,N/A,Co. D,8.465664584280717,http://www.daft.ie/for-sale/site-the-orchard-orchard-lane-blackrock-co-dublin/3251613
+"66 Airpark Avenue, Rathfarnham, Dublin 16",-6.308495,53.275301,595000.0,144,D16,7.99717413109637,http://www.daft.ie/for-sale/semi-detached-house-66-airpark-avenue-rathfarnham-dublin-16/3280357
+"2 St Brendan's Terrace, Tibradden, Rathfarnham, Dublin 16",-6.295066,53.260817,595000.0,108,D16,9.31051830714798,http://www.daft.ie/for-sale/bungalow-2-st-brendans-terrace-tibradden-rathfarnham-dublin-16/3208517
+"6 Clifton Mews, Mountpleasant Terrace, Ranelagh, Dublin 6",-6.259642,53.3286,595000.0,90,D6,1.671441358887099,http://www.daft.ie/for-sale/semi-detached-house-6-clifton-mews-mountpleasant-terrace-ranelagh-dublin-6/3154730
+"7 Inishbofin, Bailey View, Dalkey, Co. Dublin",-6.105127,53.28385,595000.0,83,Co. D,12.622371691474646,http://www.daft.ie/for-sale/apartment-7-inishbofin-bailey-view-dalkey-co-dublin/3423863
+"9 Artane Cottages Lower, Malahide Road, Artane, Dublin 5",-6.210331,53.379773,595000.0,N/A,D5,5.5813738969686995,http://www.daft.ie/for-sale/semi-detached-house-9-artane-cottages-lower-malahide-road-artane-dublin-5/3434147
+"2 Lansdowne Lane, Ballsbridge, Dublin 4",-6.230694,53.334519,595000.0,83,D4,2.609117083948726,http://www.daft.ie/for-sale/townhouse-2-lansdowne-lane-ballsbridge-dublin-4/3491746
+"Prospect House, Barclay Court, Blackrock, Co. Dublin",-6.175757994329302,53.2982103944876,595000.0,N/A,Co. D,7.8577599005128,http://www.daft.ie/new-home-for-sale/apartment-06-prospect-house-prospect-house-barclay-court-blackrock-co-dublin/2286557
+"139 Wyckham Point, Wyckham Way, Dundrum, Dublin 16",-6.242784,53.280701,595000.0,115,D16,7.106924836682594,http://www.daft.ie/for-sale/apartment-139-wyckham-point-wyckham-way-dundrum-dublin-16/3287230
+"The Cottage, Delwood Grove, Castleknock, Dublin 15",-6.39204,53.37879,595000.0,285,D15,9.183345604312365,http://www.daft.ie/for-sale/detached-house-the-cottage-delwood-grove-castleknock-dublin-15/3261792
+"9 Leinster Street North, Phibsborough, Dublin 7",-6.27316,53.364056,595000.0,137,D7,2.383299878293303,http://www.daft.ie/for-sale/terraced-house-9-leinster-street-north-phibsborough-dublin-7/3490605
+"16 Brookvale Road, Donnybrook, Dublin 4",-6.233882,53.318418,595000.0,115,D4,3.5163647996498066,http://www.daft.ie/for-sale/end-of-terrace-house-16-brookvale-road-donnybrook-dublin-4/3491275
+"15 Alexandra Walk, Adelaide Square, Whitefriar Street, Dublin 2",-6.26852,53.340099,595000.0,100,D2,0.32020947159107593,http://www.daft.ie/for-sale/apartment-15-alexandra-walk-adelaide-square-whitefriar-street-dublin-2/2309766
+"21 Orpen Rise, Blackrock, Co. Dublin",-6.186859,53.286503,595000.0,86,Co. D,8.243318998606256,http://www.daft.ie/for-sale/semi-detached-house-21-orpen-rise-blackrock-co-dublin/3478439
+"8 Ballymount Cottages, Turnpike Road, Ballymount, Dublin 12",-6.36187,53.316206,595000.0,N/A,D12,6.940224053467663,http://www.daft.ie/for-sale/detached-house-8-ballymount-cottages-turnpike-road-ballymount-dublin-12/3439033
+"145 Philipsburgh Avenue, Fairview, Dublin 3",-6.240039,53.368058,595000.0,N/A,D3,3.335117520279826,http://www.daft.ie/for-sale/semi-detached-house-145-philipsburgh-avenue-fairview-dublin-3/3421296
+"The Palsm, 18 Willow Park Grove, Glasnevin, Dublin 11",-6.269147,53.391309,595000.0,149,D11,5.384083033977643,http://www.daft.ie/for-sale/semi-detached-house-the-palsm-18-willow-park-grove-glasnevin-dublin-11/3181003
+"6 Castle Mews, Castle Street, Dalkey, Co. Dublin",-6.107618,53.277892,595000.0,84,Co. D,12.842836721445247,http://www.daft.ie/for-sale/townhouse-6-castle-mews-castle-street-dalkey-co-dublin/3221364
+"39 Whately Place, Kilmacud Road Upper, Stillorgan, Co. Dublin",-6.209159,53.286017,595000.0,115,Co. D,7.414569350458324,http://www.daft.ie/for-sale/duplex-39-whately-place-kilmacud-road-upper-stillorgan-co-dublin/3475499
+"Bushfield Villa, Bushfield Terrace, Donnybrook, Dublin 4",-6.246815,53.323845,595000.0,98,D4,2.521450159541786,http://www.daft.ie/for-sale/detached-house-bushfield-villa-bushfield-terrace-donnybrook-dublin-4/3423449
+"12 Sandyford Hall Rise Sandyford Dublin 18, Sandyford, Dublin 18",-6.216872,53.263693,595000.0,110,D18,9.42566675055569,http://www.daft.ie/for-sale/semi-detached-house-12-sandyford-hall-rise-sandyford-dublin-18-sandyford-dublin-18/3425724
+"14 Verbena Park, Sutton, Bayside, Dublin 13",-6.148474,53.390428,595000.0,132,D13,9.496944067319433,http://www.daft.ie/for-sale/detached-house-14-verbena-park-sutton-bayside-dublin-13/3481661
+"1 Beaufort Downs, Rathfarnham, Dublin 14",-6.282007,53.294617,595000.0,116,D14,5.4557918255706745,http://www.daft.ie/for-sale/semi-detached-house-1-beaufort-downs-rathfarnham-dublin-14/2612159
+"4 Fairbrook Lawn, Rathfarnham, Dublin 14",-6.290862,53.292119,595000.0,136,D14,5.857715191530835,http://www.daft.ie/for-sale/semi-detached-house-4-fairbrook-lawn-rathfarnham-dublin-14/3279529
+"Apt 504, Longboat Quay North, Sir John Rogerson's Quay, Dublin 2",-6.23619,53.345461,595000.0,91,D2,2.0913272304737927,http://www.daft.ie/for-sale/apartment-apt-504-longboat-quay-north-sir-john-rogersons-quay-dublin-2/2309768
+"30 Home Farm Park, Drumcondra, Dublin 9",-6.256037,53.373312,595000.0,95,D9,3.464715885288724,http://www.daft.ie/for-sale/end-of-terrace-house-30-home-farm-park-drumcondra-dublin-9/3450375
+"22 Bath Avenue Gardens, Sandymount, Dublin 4",-6.229719,53.337574,595000.0,85,D4,2.570795337720066,http://www.daft.ie/for-sale/terraced-house-22-bath-avenue-gardens-sandymount-dublin-4/3199727
+"35 Saint Peters Road, Phibsborough, Dublin 7",-6.276776,53.362669,595000.0,110,D7,2.2845974245200678,http://www.daft.ie/for-sale/terraced-house-35-saint-peters-road-phibsborough-dublin-7/3262581
+"6 Woodfield Terrace, Kilmainham, Dublin 8",-6.319592,53.34178,595000.0,118,D8,3.4671068370059452,http://www.daft.ie/for-sale/terraced-house-6-woodfield-terrace-kilmainham-dublin-8/3483122
+"39 Raheny Park Raheny Dublin 5, Raheny, Dublin 5",-6.169499,53.378147,595000.0,132,D5,7.587249540752804,http://www.daft.ie/for-sale/semi-detached-house-39-raheny-park-raheny-dublin-5-raheny-dublin-5/3153124
+"24 Grange Park Drive, Raheny, Dublin 5",-6.166479,53.387987,595000.0,107,D5,8.365037159253653,http://www.daft.ie/for-sale/semi-detached-house-24-grange-park-drive-raheny-dublin-5/3429597
+"22 Mountpleasant Avenue Lower, Rathmines, Ranelagh, Dublin 6",-6.261858,53.328223,595000.0,118,D6,1.6729780685439353,http://www.daft.ie/for-sale/terraced-house-22-mountpleasant-avenue-lower-rathmines-ranelagh-dublin-6/2952500
+"136 Botanic Avenue, Glasnevin, Dublin 9",-6.263632,53.36985,595000.0,112,D9,3.0071186227698297,http://www.daft.ie/for-sale/semi-detached-house-136-botanic-avenue-glasnevin-dublin-9/3483234
+"3 Olney Mews, Rathgar Avenue, Rathgar, Dublin 6",-6.278063,53.31813,595000.0,116,D6,2.8438596206086886,http://www.daft.ie/for-sale/terraced-house-3-olney-mews-rathgar-avenue-rathgar-dublin-6/3480248
+"29 Merrion Park, South Hill Avenue, Blackrock, Co. Dublin",-6.202561,53.299492,595000.0,97,Co. D,6.468717366487443,http://www.daft.ie/for-sale/terraced-house-29-merrion-park-south-hill-avenue-blackrock-co-dublin/3474457
+"11 Brookville Park Artane Dublin 5, Artane, Dublin 5",-6.203461,53.384707,595000.0,130,D5,6.293658651694506,http://www.daft.ie/for-sale/semi-detached-house-11-brookville-park-artane-dublin-5-artane-dublin-5/3261402
+"90 Murphystown Road, Leopardstown, Dublin 18",-6.21055,53.266584,599000.0,N/A,D18,9.288720154470537,http://www.daft.ie/for-sale/semi-detached-house-90-murphystown-road-leopardstown-dublin-18/3470302
+"21 Farmhill Park, Goatstown, Dublin 14",-6.233262,53.2942,599000.0,112,D14,5.870795976674378,http://www.daft.ie/for-sale/terraced-house-21-farmhill-park-goatstown-dublin-14/3442606
+"Stockwell, Sandyford Road, Dundrum, Dublin 16",-6.2341063616624695,53.282189911897376,599995.0,N/A,D16,7.103760960264885,http://www.daft.ie/new-home-for-sale/duplex-number-6-stockwell-stockwell-sandyford-road-dundrum-dublin-16/2526909
+"34 Orwell Place, Marianella, Rathgar, Dublin 6",-6.269531,53.308398,600000.0,84,D6,3.8390569093641247,http://www.daft.ie/for-sale/apartment-34-orwell-place-marianella-rathgar-dublin-6/3468936
+"67 Woodview, Mount Merrion Avenue, Blackrock, Co. Dublin",-6.187339,53.299812,600000.0,80,Co. D,7.15768048604701,http://www.daft.ie/for-sale/apartment-67-woodview-mount-merrion-avenue-blackrock-co-dublin/3472518
+"3 Owendore Crescent, Rathfarnham, Dublin 14",-6.287325,53.297312,600000.0,107,D14,5.239069146000018,http://www.daft.ie/for-sale/terraced-house-3-owendore-crescent-rathfarnham-dublin-14/3475063
+"The Laurels, 77 Cabra Park, Phibsborough, Dublin 7",-6.278108,53.361756,600000.0,145,D7,2.2138693286083577,http://www.daft.ie/for-sale/semi-detached-house-the-laurels-77-cabra-park-phibsborough-dublin-7/3493685
+"94 Nephin Road, Navan Road, Navan Road (D7), Dublin 7",-6.306651,53.365722,600000.0,106,D7,3.636759903106648,http://www.daft.ie/for-sale/semi-detached-house-94-nephin-road-navan-road-navan-road-d7-dublin-7/3418641
+"75 Beaumont Road, Whitehall, Dublin 9",-6.236325,53.384155,600000.0,170,D9,5.029452030076981,http://www.daft.ie/for-sale/semi-detached-house-75-beaumont-road-whitehall-dublin-9/3254252
+"206 Whitecliff, Whitechurch Road, Rathfarnham, Dublin 16",-6.289114,53.284187,600000.0,115,D16,6.686049927349213,http://www.daft.ie/for-sale/semi-detached-house-206-whitecliff-whitechurch-road-rathfarnham-dublin-16/3484654
+"71 Hazelwood Shankill, Shankill, Dublin 18",-6.123638,53.237529,600000.0,150,D18,15.119213485034377,http://www.daft.ie/for-sale/semi-detached-house-71-hazelwood-shankill-shankill-dublin-18/3442758

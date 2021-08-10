@@ -37,7 +37,7 @@ daft = Daft()
 daft.set_location(Location.DUBLIN_CITY)
 daft.set_search_type(SearchType.RESIDENTIAL_SALE)
 daft.set_sort_type(SortType.PRICE_ASC)
-daft.set_max_price(500000)
+daft.set_max_price(600000)
 
 listings = daft.search()
 
