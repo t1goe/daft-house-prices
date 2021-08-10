@@ -20,10 +20,10 @@ def dist_to_city_center(listing):
 
 def floor_area(listing):
     try:
-        if listing.as_dict["floorArea"]["unit"] != "METRES_SQUARED":
+        if listing.as_dict()["floorArea"]["unit"] != "METRES_SQUARED":
             return "N/A"
         else:
-            return listing.as_dict["floorArea"]["value"]
+            return listing.as_dict()["floorArea"]["value"]
     except KeyError as e:
         return "N/A"
 
@@ -49,19 +49,4 @@ df['link'] = [d.daft_link for d in listings]
 
 print(df)
 
-# # cache the listings in the local file
-# with open("result.txt", "w") as fp:
-#     fp.writelines("%s\n" % listing.as_dict_for_mapping() for listing in listings)
-#
-# # read from the local file
-# with open("result.txt") as fp:
-#     lines = fp.readlines()
-#
-# properties = []
-# for line in lines:
-#     properties.append(eval(line))
-#
-# df = pd.DataFrame(properties)
-# print(df)
-#
-df.to_csv("output.csv")
+df.to_csv("output.csv", index=False)
