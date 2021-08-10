@@ -28,6 +28,10 @@ def floor_area(listing):
         return "N/A"
 
 
+def price(listing):
+    return float(re.sub("[^0-9]", "", listing.price))
+
+
 daft = Daft()
 daft.set_location(Location.DUBLIN_CITY)
 daft.set_search_type(SearchType.RESIDENTIAL_SALE)
@@ -41,7 +45,7 @@ df = pd.DataFrame()
 df['title'] = [d.title for d in listings]
 df['longitude'] = [d.longitude for d in listings]
 df['latitude'] = [d.latitude for d in listings]
-df['price'] = [d.price[1:] for d in listings]
+df['price'] = [price(d) for d in listings]
 df['size'] = [floor_area(d) for d in listings]
 df['post_area'] = [get_postcode(d) for d in listings]
 df['dist_to_city_center'] = [dist_to_city_center(d) for d in listings]
