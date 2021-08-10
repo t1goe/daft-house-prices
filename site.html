@@ -1,0 +1,132 @@
+<html>
+<head>
+    <title> House prices</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+       body {
+             font-family: sans-serif;
+           }
+
+           .vega-actions a {
+             padding: 0.2em;
+           }
+
+
+    </style>
+</head>
+<body>
+
+<hr/>
+<div align="center"><b> </b><br/><br/></div>
+<div id="vis1" align="center"></div>
+<div id="vis2" align="center"></div>
+
+<script type="text/javascript">
+    var yourVlSpec =  {
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+  "url": "https://raw.githubusercontent.com/t1goe/daft-house-prices/main/output.csv",
+  "format": {
+    "type": "csv"
+    }
+  },
+  "transform": [
+    {"filter": "datum.size < 600"}
+  ],
+  "mark":"circle",
+  "encoding":{
+    "x":{
+      "field":"price",
+      "type":"quantitative",
+      "scale":{"zero":false}
+    },
+    "y":{
+      "field":"size",
+      "type":"quantitative"
+    },
+    "color":{
+      "field":"dist_to_city_center",
+      "type":"quantitative",
+      "scale":{
+        "scheme":"magma"
+      }
+    },
+    "size":{
+      "value": 100
+    },
+    "tooltip":[
+	{"field":"title","type":"nominal"},
+	{"field":"link","type":"nominal"}
+    ],
+    "href": {"field": "link", "type": "nominal"},
+    "opacity": {"value": 0.5}
+  },
+  "title":{
+      "text":"Graph 1",
+      "anchor":"middle"
+  },
+  "width":1200,
+  "height":1000
+}
+
+
+        vegaEmbed("#vis1", yourVlSpec);
+
+
+</script>
+<script type="text/javascript">
+    var yourVlSpec =  {
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+  "url": "https://raw.githubusercontent.com/t1goe/daft-house-prices/main/output.csv",
+  "format": {
+    "type": "csv"
+    }
+  },
+  "transform": [
+    {"filter": "datum.size < 600"}
+  ],
+  "mark":"circle",
+  "encoding":{
+    "x":{
+      "field":"price",
+      "type":"quantitative",
+      "scale":{"zero":false}
+    },
+    "y":{
+      "field":"size",
+      "type":"quantitative"
+    },
+    "color":{
+      "field":"post_area",
+      "type":"nominal"
+    },
+    "size":{
+      "value": 100
+    },
+    "tooltip":[
+	{"field":"title","type":"nominal"},
+	{"field":"link","type":"nominal"}
+    ],
+    "href": {"field": "link", "type": "nominal"},
+    "opacity": {"value": 0.5}
+  },
+  "title":{
+      "text":"Graph 2",
+      "anchor":"middle"
+  },
+  "width":1200,
+  "height":1000
+}
+
+
+        vegaEmbed("#vis2", yourVlSpec);
+
+
+</script>
+
+<hr/>
+</body>
+</html>
