@@ -8,7 +8,8 @@ def get_postcode(listing):
 
     x = re.search(regex_search, listing.title)
     if x is not None:
-        return x.group()
+        y = re.sub("Dublin ?", "D", x.group())
+        return y
     else:
         return "N/A"
 
